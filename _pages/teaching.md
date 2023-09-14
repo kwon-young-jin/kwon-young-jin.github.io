@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-2023
+<b>2023</b>
 
 IDSC 4444 (Fall) - Descriptive and Predictive Analytics
 
