@@ -21,21 +21,21 @@ Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Ap
 Why Do People Buy NFT Art? Investment Value and Veblen Effect 
 - with Jason Chan
 
+Artist Resale Royalty and Success of NFT Collections
 
-
-Gas Fee and Wealth Inequality in NFT Market
+Gas Fee and Wealth Inequality in NFT Markets
 
 Friend or Foe? Bike-sharing and Ride-sharing in New York City
 - With Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim
-- Presented at Workshop on Information Systems and Economics (WISE) 2019, Munich, Germany
-- Best paper award at Post-ICIS KrAIS Research Workshop, Munich, Germany
+- Presented at <i>Workshop on Information Systems and Economics (WISE) 2019, Munich, Germany</i>
+- Best paper award at <i>Post-ICIS KrAIS Research Workshop, Munich, Germany</i>
 
 `Publication (English)`
 
 The Impact of Information Sharing Legislation on Cybersecurity Industry
 - With Agnes Yang and Sang-Yong Tom Lee
 - <i>Industrial Management & Data Systems (2020)</i>
-- Presented at International Conference on Information Systems (ICIS), San Francisco, US
+- Presented at <i>International Conference on Information Systems (ICIS) 2018, San Francisco, US</i>
 
 `Publication (Korean)`
 
