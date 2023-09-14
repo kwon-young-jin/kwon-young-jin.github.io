@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I study how emerging technologies are reshaping the art industry, ranging from the rise of blockchain-based asset markets to the advancements in generative AI
+I study how emerging technologies are reshaping the `art industry`, ranging from the rise of `blockchain-based asset markets` to the `advancements in generative AI`
 
 Personal experiences, such as working as a docent at art museum, have still inspired my research questions
 
-Methodologically, my curiosity extends to exploring the economic value of unconstructed data. Both image and textual analyses have played pivotal roles in my research endeavors
+Methodologically, my curiosity extends to exploring `the economic value of unconstructured data`. Both image and textual analyses have played pivotal roles in my research endeavors
