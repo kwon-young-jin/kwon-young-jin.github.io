@@ -13,6 +13,11 @@ An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta 
 - In prepration for submission to a journal
 
+Friend or Foe? Bike-sharing and Ride-sharing in New York City
+- <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim
+- Presented at <i>Workshop on Information Systems and Economics (WISE) 2019, Munich, Germany</i>
+- Best paper award at <i>Post-ICIS KrAIS Research Workshop 2019, Munich, Germany</i>
+
 `In-progress`
 
 Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach
@@ -26,11 +31,6 @@ Artist Resale Royalty and Success of NFT Collections
 
 Gas Fee and Wealth Inequality in NFT Markets
 - Analysis in progress
-
-Friend or Foe? Bike-sharing and Ride-sharing in New York City
-- <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim
-- Presented at <i>Workshop on Information Systems and Economics (WISE) 2019, Munich, Germany</i>
-- Best paper award at <i>Post-ICIS KrAIS Research Workshop 2019, Munich, Germany</i>
 
 `Publication`
 
