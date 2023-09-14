@@ -13,7 +13,7 @@ An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta 
 - In prepration for submission to a journal
 
-`In progress`
+`In-progress`
 
 Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach
 - With Alok Gupta
