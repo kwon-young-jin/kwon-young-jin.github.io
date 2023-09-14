@@ -19,4 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. 
+I study the impact of new technology on art industry
+
+
