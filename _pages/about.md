@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I study the impact of new technology on art industry
+I study how new technologies transform art industry
 
 
