@@ -7,4 +7,4 @@ nav: true
 nav_order: 1
 ---
 
-For now, 
+1. An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in NFT Markets
