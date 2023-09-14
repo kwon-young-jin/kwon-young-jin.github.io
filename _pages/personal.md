@@ -15,4 +15,4 @@ Whenever I'm not working, you'll most likely find me engaged in one of these act
 - Enjoying a good film (Fun fact: I've watched 1,100+ movies to date)
 - Bouldering (Fun fact: Level V4 boulderer)
 - Swimming
-- Camping with grilling (Fun fact: I'm dead serious about cooking the perfect beef steak)
+- Camping with grilling (Fun fact: I'm dead serious about cooking the perfect steak)
