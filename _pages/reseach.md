@@ -11,7 +11,7 @@ nav_order: 1
 
 An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in NFT Markets
 - With Alok Gupta and Teng Ye
-- In prepration for a submission to journal
+- In prepration for submission to a journal
 
 `In progress`
 
@@ -35,6 +35,7 @@ Friend or Foe? Bike-sharing and Ride-sharing in New York City
 The Impact of Information Sharing Legislation on Cybersecurity Industry
 - With Agnes Yang and Sang-Yong Tom Lee
 - <i>Industrial Management & Data Systems (2020)</i>
+- Presented at International Conference on Information Systems (ICIS), San Francisco, US
 
 `Publication (Korean)`
 
