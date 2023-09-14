@@ -22,8 +22,10 @@ Why Do People Buy NFT Art? Investment Value and Veblen Effect
 - With Jason Chan
 
 Artist Resale Royalty and Success of NFT Collections
+- Analysis in progress
 
 Gas Fee and Wealth Inequality in NFT Markets
+- Analysis in progress
 
 Friend or Foe? Bike-sharing and Ride-sharing in New York City
 - <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim
