@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I study how emerging technologies are reshaping the `art industry`, ranging from the rise of `blockchain-based asset markets` to the advancements in `generative AI`
+I study how emerging technologies are reshaping the `art industry`, ranging from the rise of `blockchain-based digital asset markets` to the advancements in `generative AI`
 
 My research questions are primarily inspired by personal experiences, such as serving as a docent at an art museum
 
