@@ -7,20 +7,8 @@
     "phone": "(612) 380-3751",
     "url": "https://kwon-young-jin.github.io",
     "summary": "I study the impact of new technologies on art industry",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "location":"",
+    "profiles": ""
   },
   "volunteer": [],
   "education": [
