@@ -17,7 +17,7 @@
       "url": "https://carlsonschool.umn.edu/",
       "area": "Information and Decision Sciences (IDSc)",
       "studyType": "PhD Candidate",
-      "startDate": "",
+      "startDate": "2020",
       "endDate": "2025 (Expected)",
       "score": ""
     },
@@ -26,7 +26,7 @@
       "url": "https://biz.hanyang.ac.kr/home",
       "area": "Management Information Systems",
       "studyType": "Master",
-      "startDate": "",
+      "startDate": "2018",
       "endDate": "2020",
       "score": ""
     },
@@ -35,7 +35,7 @@
       "url": "https://biz.hanyang.ac.kr/home",
       "area": "Business Administration",
       "studyType": "Bachelor",
-      "startDate": "",
+      "startDate": "2012",
       "endDate": "2018",
       "score": ""
     }
@@ -45,6 +45,10 @@
   "publications": [],
   "skills": [],
   "languages": [
+    {
+      "language": "Programming",
+      "fluency": "Python, R, MongoDB, LaTeX"
+    },
     {
       "language": "Korean",
       "fluency": "Native speaker"
