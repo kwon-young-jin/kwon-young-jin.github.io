@@ -18,7 +18,7 @@
       "area": "Information and Decision Sciences (IDSc)",
       "studyType": "PhD Candidate",
       "startDate": "2020",
-      "endDate": "2025 (Expected)",
+      "endDate": "2025",
       "score": ""
     },
     {
@@ -47,7 +47,7 @@
   "languages": [
     {
       "language": "Programming",
-      "fluency": "Python, R, MongoDB, LaTeX"
+      "fluency": "Python, R, MongoDB, SQL, LaTeX"
     },
     {
       "language": "Korean",
