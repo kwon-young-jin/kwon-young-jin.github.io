@@ -37,7 +37,9 @@
       "studyType": "Bachelor",
       "startDate": "2012",
       "endDate": "2018",
-      "score": "Military service (2013-2015)"
+      "highlights": [
+        "Military Service (2013-2015)"
+      ]
     }
   ],
   "awards": [],
