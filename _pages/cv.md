@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: YoungJin Kwon.pdf
+cv_pdf: CV_YoungJin_Kwon.pdf
 description: 
 ---
