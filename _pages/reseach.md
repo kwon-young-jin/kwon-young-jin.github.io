@@ -22,6 +22,7 @@ Balancing the Gendered Price: Evidence from Decentralized NFT Markets
 
 Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach
 - With Alok Gupta
+- Analysis in progress
 
 NFT Wash Tradiing
 - Analysis in progress
