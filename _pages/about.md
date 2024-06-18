@@ -11,7 +11,7 @@ profile:
   address: >
     <p>PhD Candidate</p>
     <p>University of Minnesota</p>
-    <p>Information and Decision Sciences (IDSc)</p>
+    <p>Information and Decision Sciences</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
