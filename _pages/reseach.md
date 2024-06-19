@@ -16,7 +16,7 @@ An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in
 
 Balancing the Gendered Price: Evidence from Decentralized NFT Markets
 - Agnes Yang, <b>YoungJin Kwon</b>, Gautam Ray 
-- To be presented at <i>INFORMS Annual Meeting 2024<i>
+- To be presented at <i>INFORMS Annual Meeting 2024<i>, <i>MARS Conference (Carlson School) 2024<i>
 
 `In-progress`
 
