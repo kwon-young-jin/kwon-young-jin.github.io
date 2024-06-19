@@ -14,7 +14,7 @@ An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in
 - Presented at <i>Workshop on Information Technologies and Systems (WITS) 2023<i>
 - In prepration for submission to a journal
 
-Balancing the Gendered Price: Evidence from Decentralized NFT Markets
+Balancing the Gendered Art Price: Evidence from Decentralized NFT Markets
 - Agnes Yang, <b>YoungJin Kwon</b>, Gautam Ray 
 - To be presented at <i>INFORMS Annual Meeting 2024<i>, <i>MARS Conference (Carlson School) 2024<i>
 
