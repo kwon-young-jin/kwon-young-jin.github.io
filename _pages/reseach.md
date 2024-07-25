@@ -12,18 +12,20 @@ nav_order: 1
 An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in NFT Markets
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta 
 - Presented at <i>Workshop on Information Technologies and Systems (WITS) 2023<i>
-- In prepration for submission to a journal
+- In final prepration for submission to a <i>Information Systems Research<i>
 
-Balancing the Gendered Art Price: Evidence from Decentralized NFT Markets
+Balancing the Gendered Art Price: The Impact of Decentralized Marketplace on Minority Artists
 - Agnes Yang, <b>YoungJin Kwon</b>, Gautam Ray 
 - To be presented at <i>INFORMS Annual Meeting 2024<i>, <i>MARS Conference (Carlson School) 2024<i>
 
 `In-progress`
 
 Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach
+- with Alok Gupta
 - Analysis in progress
 
 NFT Wash Tradiing
+- with Alok Gupta, Teng Ye
 - Analysis in progress
 
 Friend or Foe? Bike-sharing and Ride-sharing in New York City
