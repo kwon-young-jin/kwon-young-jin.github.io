@@ -32,7 +32,7 @@ Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Ap
 Friend or Foe? Bike-sharing and Ride-sharing in New York City
 - <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim
 - Presented at WISE 2019
-- Best paper award at <i>Post-ICIS KrAIS Research Workshop 2019</i>
+- Best paper award at Post-ICIS KrAIS Research Workshop 2019
 
 `Publication`
 
