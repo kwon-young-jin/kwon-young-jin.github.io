@@ -17,13 +17,13 @@
       "url": "https://carlsonschool.umn.edu/",
       "area": "Information and Decision Sciences (IDSc)",
       "studyType": "PhD Candidate",
-      "startDate": "2020",
+      // "startDate": "2020",
       "endDate": "2025",
       "score": ""
     },
     {
-      "institution": "Hanyang University, Seoul, Korea",
-      "url": "https://biz.hanyang.ac.kr/home",
+      "institution": " University, Seoul, Korea",
+      "url": "https://biz..ac.kr/home",
       "area": "Management Information Systems",
       "studyType": "Master",
       "startDate": "2018",
@@ -31,8 +31,8 @@
       "score": ""
     },
     {
-      "institution": "Hanyang University, Seoul, Korea",
-      "url": "https://biz.hanyang.ac.kr/home",
+      "institution": " University, Seoul, Korea",
+      "url": "https://biz..ac.kr/home",
       "area": "Business Administration",
       "studyType": "Bachelor",
       "startDate": "2012",
