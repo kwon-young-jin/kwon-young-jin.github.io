@@ -7,30 +7,40 @@ nav: true
 nav_order: 1
 ---
 
-`Working Paper`
+<h2>Working Paper</h2>
 
-An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in NFT Markets
-- <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta 
-- Submitted to  <i>Information Systems Research<i>
-- To be presented at INFORMS ISR - ISS Paper Development Workshop 2024
-- Presented at WITS 2023
+<p><b>An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in NFT Markets</b></p>
+<ul>
+    <li><b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta</li>
+    <li>Submitted to <i>Information Systems Research</i></li>
+    <li>To be presented at INFORMS ISR - ISS Paper Development Workshop 2024</li>
+    <li>Presented at WITS 2023</li>
+</ul>
 
-Balancing the Gendered Art Price: The Impact of Decentralized Marketplace on Minority Artists
-- Agnes Yang, <b>YoungJin Kwon</b>, Gautam Ray 
-- To be presented at CIST 2024
-- To be presented at INFORMS Annual Meeting 2024
+<p><b>Balancing the Gendered Art Price: The Impact of Decentralized Marketplace on Minority Artists</b></p>
+<ul>
+    <li>Agnes Yang, <b>YoungJin Kwon</b>, Gautam Ray</li>
+    <li>To be presented at CIST 2024</li>
+    <li>To be presented at INFORMS Annual Meeting 2024</li>
+</ul>
 
-`In-progress`
+<h2>In-progress</h2>
 
-NFT Wash Trading <i>(Potential job market paper)<i>
-- with Alok Gupta, Teng Ye
-- Analysis in progress
+<p><b>NFT Wash Trading</b> <i>(Potential job market paper)</i></p>
+<ul>
+    <li>With Alok Gupta, Teng Ye</li>
+    <li>Analysis in progress</li>
+</ul>
 
-Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach
-- with Alok Gupta
-- Analysis in progress
+<p><b>Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b></p>
+<ul>
+    <li>With Alok Gupta</li>
+    <li>Analysis in progress</li>
+</ul>
 
-Friend or Foe? Bike-sharing and Ride-sharing in New York City
-- <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim
-- Presented at WISE 2019
-- Best paper award at Post-ICIS KrAIS Research Workshop 2019
+<p><b>Friend or Foe? Bike-sharing and Ride-sharing in New York City</b></p>
+<ul>
+    <li><b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim</li>
+    <li>Presented at WISE 2019</li>
+    <li>Best paper award at Post-ICIS KrAIS Research Workshop 2019</li>
+</ul>
