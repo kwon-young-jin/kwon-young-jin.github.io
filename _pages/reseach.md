@@ -13,7 +13,7 @@ An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta 
 - Submitted to  <i>Information Systems Research<i>
 - To be presented at INFORMS ISR - ISS Paper Development Workshop 2024
-    - dd
+    - Only 21 papers were chosen by the Editor-in-Chief of <i>Information Systems Research<i>
 - Presented at WITS 2023
 
 Balancing the Gendered Art Price: The Impact of Decentralized Marketplace on Minority Artists
