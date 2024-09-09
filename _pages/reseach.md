@@ -23,9 +23,9 @@ Balancing the Gendered Art Price: The Impact of Decentralized Marketplace on Min
 
 `In-progress`
 
-NFT Wash Trading
+NFT Wash Trading  (<i>Potential job market paper<i>)
 - with Alok Gupta, Teng Ye
-- Analysis in progress (<i>Potential job market paper<i>)
+- Analysis in progress 
 
 Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach
 - with Alok Gupta
