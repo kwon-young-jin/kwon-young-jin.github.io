@@ -22,7 +22,7 @@ nav_order: 1
 
 `In-progress`
 
-<b>NFT Wash Trading: Antecedents and Consequences<b>  (<i>Potential job market paper<i>)
+<b>Antecedents and Consequences of NFT Wash Trading<b>  (<i>Potential job market paper<i>)
 - with Alok Gupta, Teng Ye
 - Analysis in progress 
 
