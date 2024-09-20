@@ -12,6 +12,7 @@ nav_order: 1
 <b>An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in NFT Markets<b>
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta 
 - Submitted to  <i>Information Systems Research<i>
+- To be presented at WISE 2024
 - To be presented at INFORMS ISR - ISS Paper Development Workshop 2024
 - Presented at WITS 2023
 
