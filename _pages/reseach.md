@@ -18,6 +18,7 @@ nav_order: 1
 
 <b>Balancing the Gendered Art Price: The Impact of Decentralized Marketplace on Minority Artists<b>
 - Agnes Yang, <b>YoungJin Kwon</b>, Gautam Ray 
+- To be presented at WITS 2024
 - To be presented at CIST 2024
 - To be presented at INFORMS Annual Meeting 2024
 
