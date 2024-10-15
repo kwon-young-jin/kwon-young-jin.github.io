@@ -15,7 +15,7 @@ nav_order: 1
 - To be presented at INFORMS ISR - ISS Paper Development Workshop 2024
 - Presented at WITS 2023
 
-<b>Balancing the Gendered Art Price: The Impact of Decentralized Marketplace on Minority Artists<b>
+<b>Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists<b>
 - Agnes Yang, <b>YoungJin Kwon</b>, Gautam Ray 
 - To be presented at WITS 2024
 - To be presented at CIST 2024
