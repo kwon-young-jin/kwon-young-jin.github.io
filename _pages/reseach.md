@@ -11,15 +11,15 @@ nav_order: 1
 
 <b>An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in NFT Markets<b>
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta 
-- To be presented at WISE 2024
-- To be presented at INFORMS ISR - ISS Paper Development Workshop 2024
+- Presented at WISE 2024
+- Presented at INFORMS ISR - ISS Paper Development Workshop 2024
 - Presented at WITS 2023
 
 <b>Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists<b>
-- Agnes Yang, <b>YoungJin Kwon</b>, Gautam Ray 
-- To be presented at WITS 2024
-- To be presented at CIST 2024
-- To be presented at INFORMS Annual Meeting 2024
+- <b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray 
+- Presented at WITS 2024
+- Presented at CIST 2024
+- Presented at INFORMS Annual Meeting 2024
 
 `In-progress`
 
@@ -31,7 +31,7 @@ nav_order: 1
 - with Alok Gupta
 - Analysis in progress
 
-<b>Friend or Foe? Bike-sharing and Ride-sharing in New York City<b>
+<b>Friend or Foe? Bike-sharing and Ride-sharing in New York City<b>  (<i>Master's Thesis<i>)
 - <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim
 - Presented at WISE 2019
 - Best paper award at Post-ICIS KrAIS Research Workshop 2019
