@@ -136,12 +136,12 @@ function toggleAbstract(id) {
 <!-- Paper 6 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Friend or Foe? Bike-sharing and Ride-sharing in New York City</b>
+    <b>(1) Friend or Foe? Bike-sharing and Ride-sharing in New York City</b> (<i>Master's Thesis</i>)
     <button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim</li>
-    <li>Presented at WISE 2019 (& <i>Master's Thesis</i>)</li>
+    <li>Presented at WISE 2019</li>
     <li>Best paper award at Post-ICIS KrAIS Research Workshop 2019</li>
   </ul>
 
