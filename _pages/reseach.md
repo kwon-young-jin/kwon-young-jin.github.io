@@ -102,7 +102,7 @@ function toggleAbstract(id) {
 <!-- Paper 4 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(2) The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>
+    <b>(1) The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
   <ul>
@@ -118,7 +118,7 @@ function toggleAbstract(id) {
 <!-- Paper 5 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>
+    <b>(2) Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
   </div>
   <ul>
@@ -136,7 +136,7 @@ function toggleAbstract(id) {
 <!-- Paper 6 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Friend or Foe? Bike-sharing and Ride-sharing in New York City</b> (<i>Master's Thesis</i>)
+    <b>(1) Friend or Foe? Bike-sharing and Ride-sharing in New York Creativity (<i>Master's Thesis</i>)</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
   </div>
   <ul>
