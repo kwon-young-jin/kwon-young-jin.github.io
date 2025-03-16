@@ -136,7 +136,7 @@ function toggleAbstract(id) {
 <!-- Paper 6 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Friend or Foe? Bike-sharing and Ride-sharing in New York Creativity</b> (<i>Master's Thesis</i>)
+    <b>(1) Friend or Foe? Bike-sharing and Ride-sharing in New York City</b> (<i>Master's Thesis</i>)
     <button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
   </div>
   <ul>
