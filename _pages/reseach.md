@@ -106,8 +106,8 @@ function toggleAbstract(id) {
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
   <ul>
-    <li>Analysis in progress</li>
     <li><b>YoungJin Kwon</b>, Agnes Yang</li>
+    <li>Analysis in progress</li>
   </ul>
 
   <div id="abstract5" style="display: none; margin-top: 5px;">
@@ -141,7 +141,7 @@ function toggleAbstract(id) {
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim</li>
-    <li>Presented at WISE 2019</li> ((& <i>Master's Thesis</i>))
+    <li>Presented at WISE 2019 (& <i>Master's Thesis</i>)</li>
     <li>Best paper award at Post-ICIS KrAIS Research Workshop 2019</li>
   </ul>
 
