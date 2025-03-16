@@ -51,6 +51,7 @@ function toggleAbstract(id) {
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta</li>
+    <li>In preparation for a submission to <i>Information Systems Research</i></li>
     <li>Presented at WISE 2024</li>
     <li>Presented at INFORMS ISR - ISS Paper Development Workshop 2024</li>
     <li>Presented at WITS 2023</li>
@@ -88,7 +89,7 @@ function toggleAbstract(id) {
   </div>
   <ul>
     <li>with Alok Gupta, Teng Ye</li>
-    <li>Analysis in progress (Targeting <i>Management Science</i> Special Issue on Digital Finance)</li>
+    <li>Targeting <i>Management Science</i> Special Issue on Digital Finance</li>
   </ul>
 
   <div id="abstract3" style="display: none; margin-top: 5px;">
