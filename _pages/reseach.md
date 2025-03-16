@@ -77,7 +77,7 @@ function toggleAbstract(id) {
   </ul>
 
   <div id="abstract2" style="display: none; margin-top: 5px;">
-    <p>This paper examines...</p>
+    <p>Abstract coming soon...</p>
   </div>
 </div>
 
