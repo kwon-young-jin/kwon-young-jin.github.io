@@ -49,15 +49,15 @@ function toggleAbstract(id) {
     <b>From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   </div>
-  - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta  
-  - Presented at WISE 2024  
-  - Presented at INFORMS ISR - ISS Paper Development Workshop 2024  
-  - Presented at WITS 2023
+  <ul>
+    <li><b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta</li>
+    <li>Presented at WISE 2024</li>
+    <li>Presented at INFORMS ISR - ISS Paper Development Workshop 2024</li>
+    <li>Presented at WITS 2023</li>
+  </ul>
 
   <div id="abstract1" style="display: none; margin-top: 5px;">
-    <p>
-      This paper explores how...
-    </p>
+    <p>This paper explores how...</p>
   </div>
 </div>
 
@@ -67,16 +67,16 @@ function toggleAbstract(id) {
     <b>Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
   </div>
-  - <b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray  
-  - In preparation for a submission to a top-tier journal  
-  - Presented at WITS 2024  
-  - Presented at CIST 2024  
-  - Presented at INFORMS Annual Meeting 2024
+  <ul>
+    <li><b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray</li>
+    <li>In preparation for a submission to a top-tier journal</li>
+    <li>Presented at WITS 2024</li>
+    <li>Presented at CIST 2024</li>
+    <li>Presented at INFORMS Annual Meeting 2024</li>
+  </ul>
 
   <div id="abstract2" style="display: none; margin-top: 5px;">
-    <p>
-      This paper examines...
-    </p>
+    <p>This paper examines...</p>
   </div>
 </div>
 
@@ -86,13 +86,13 @@ function toggleAbstract(id) {
     <b>Why NFT Market Has Crashed? Antecedents and Consequences of Wash Trading</b> (<i>Potential job market paper</i>)
     <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
   </div>
-  - with Alok Gupta, Teng Ye  
-  - Analysis in progress (Targeting <i>Management Science</i> Special Issue on Digital Finance)
+  <ul>
+    <li>with Alok Gupta, Teng Ye</li>
+    <li>Analysis in progress (Targeting <i>Management Science</i> Special Issue on Digital Finance)</li>
+  </ul>
 
   <div id="abstract3" style="display: none; margin-top: 5px;">
-    <p>
-      Abstract coming soon...
-    </p>
+    <p>Abstract coming soon...</p>
   </div>
 </div>
 
@@ -104,13 +104,13 @@ function toggleAbstract(id) {
     <b>Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
   </div>
-  - with Alok Gupta  
-  - Analysis in progress
+  <ul>
+    <li>with Alok Gupta</li>
+    <li>Analysis in progress</li>
+  </ul>
 
   <div id="abstract4" style="display: none; margin-top: 5px;">
-    <p>
-      Abstract coming soon...
-    </p>
+    <p>Abstract coming soon...</p>
   </div>
 </div>
 
@@ -120,13 +120,13 @@ function toggleAbstract(id) {
     <b>The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
-  - Analysis in progress  
-  - <b>YoungJin Kwon</b>, Agnes Yang
+  <ul>
+    <li>Analysis in progress</li>
+    <li><b>YoungJin Kwon</b>, Agnes Yang</li>
+  </ul>
 
   <div id="abstract5" style="display: none; margin-top: 5px;">
-    <p>
-      Abstract coming soon...
-    </p>
+    <p>Abstract coming soon...</p>
   </div>
 </div>
 
@@ -138,13 +138,13 @@ function toggleAbstract(id) {
     <b>Friend or Foe? Bike-sharing and Ride-sharing in New York City</b> (<i>Master's Thesis</i>)
     <button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
   </div>
-  - <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim  
-  - Presented at WISE 2019  
-  - Best paper award at Post-ICIS KrAIS Research Workshop 2019
+  <ul>
+    <li><b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim</li>
+    <li>Presented at WISE 2019</li>
+    <li>Best paper award at Post-ICIS KrAIS Research Workshop 2019</li>
+  </ul>
 
   <div id="abstract6" style="display: none; margin-top: 5px;">
-    <p>
-      This research investigates...
-    </p>
+    <p>This research investigates...</p>
   </div>
 </div>
