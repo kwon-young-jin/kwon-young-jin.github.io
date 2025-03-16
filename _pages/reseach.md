@@ -83,7 +83,7 @@ function toggleAbstract(id) {
 <!-- Paper 3 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>Why NFT Market Has Crashed? Antecedents and Consequences of Wash Trading</b> (<i>Potential job market paper</i>)
+    <b>Why NFT Market Has Crashed? Antecedents and Consequences of Wash Trading</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
   </div>
   <ul>
@@ -135,7 +135,7 @@ function toggleAbstract(id) {
 <!-- Paper 6 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>Friend or Foe? Bike-sharing and Ride-sharing in New York City</b> (<i>Master's Thesis</i>)
+    <b>Friend or Foe? Bike-sharing and Ride-sharing in New York City</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
   </div>
   <ul>
