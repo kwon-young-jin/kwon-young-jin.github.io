@@ -38,11 +38,12 @@ function toggleAbstract(id) {
 }
 </script>
 
-## Working Paper
+`Blockchain-based Digital Asset Market`
 
 <!-- Paper 1 -->
-<b>An Exploration of Investor Strategies and Outcomes on the Roller Coaster Ride in NFT Markets</b>  
+<b>From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>  
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta  
+- In preparation for a submission to Information Systems Research
 - Presented at WISE 2024  
 - Presented at INFORMS ISR - ISS Paper Development Workshop 2024  
 - Presented at WITS 2023
@@ -55,11 +56,10 @@ function toggleAbstract(id) {
   </p>
 </div>
 
-<br>
-
 <!-- Paper 2 -->
 <b>Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>  
 - <b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray  
+- In preparation for a submission to top-tier journal
 - Presented at WITS 2024  
 - Presented at CIST 2024  
 - Presented at INFORMS Annual Meeting 2024
@@ -71,14 +71,10 @@ function toggleAbstract(id) {
   </p>
 </div>
 
-<br>
-
-## In-progress
-
 <!-- Paper 3 -->
 <b>Antecedents and Consequences of NFT Wash Trading</b> (<i>Potential job market paper</i>)  
-- with Alok Gupta, Teng Ye  
 - Analysis in progress 
+- with Alok Gupta, Teng Ye  
 
 <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
 <div id="abstract3" style="display: none; margin: 5px 0;">
@@ -87,12 +83,12 @@ function toggleAbstract(id) {
   </p>
 </div>
 
-<br>
+`AI Creativity and Productivity`
 
 <!-- Paper 4 -->
 <b>Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>  
-- with Alok Gupta  
 - Analysis in progress
+- with Alok Gupta 
 
 <button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
 <div id="abstract4" style="display: none; margin: 5px 0;">
@@ -101,16 +97,28 @@ function toggleAbstract(id) {
   </p>
 </div>
 
-<br>
-
 <!-- Paper 5 -->
+<b>The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>  
+- Analysis in progress
+- <b>YoungJin Kwon</b>, Agnes Yang
+
+<button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
+<div id="abstract5" style="display: none; margin: 5px 0;">
+  <p>
+    Abstract coming soon...
+  </p>
+</div>
+
+`Platform Economy`
+
+<!-- Paper 6 -->
 <b>Friend or Foe? Bike-sharing and Ride-sharing in New York City</b> (<i>Master's Thesis</i>)  
 - <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim  
 - Presented at WISE 2019  
 - Best paper award at Post-ICIS KrAIS Research Workshop 2019
 
-<button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
-<div id="abstract5" style="display: none; margin: 5px 0;">
+<button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
+<div id="abstract6" style="display: none; margin: 5px 0;">
   <p>
     Abstract here...
   </p>
