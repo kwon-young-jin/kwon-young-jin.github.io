@@ -43,7 +43,7 @@ function toggleAbstract(id) {
 <!-- Paper 1 -->
 <b>From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>  
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta  
-- In preparation for a submission to Information Systems Research
+- In preparation for a submission to <i>Information Systems Research<i>
 - Presented at WISE 2024  
 - Presented at INFORMS ISR - ISS Paper Development Workshop 2024  
 - Presented at WITS 2023
@@ -59,7 +59,7 @@ function toggleAbstract(id) {
 <!-- Paper 2 -->
 <b>Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>  
 - <b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray  
-- In preparation for a submission to top-tier journal
+- In preparation for a submission to a top-tier journal
 - Presented at WITS 2024  
 - Presented at CIST 2024  
 - Presented at INFORMS Annual Meeting 2024
@@ -73,8 +73,8 @@ function toggleAbstract(id) {
 
 <!-- Paper 3 -->
 <b>Antecedents and Consequences of NFT Wash Trading</b> (<i>Potential job market paper</i>)  
-- Analysis in progress 
 - with Alok Gupta, Teng Ye  
+- Analysis in progress (Targeting <i>Management Science Special Issue on Digital Finance<i>)
 
 <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
 <div id="abstract3" style="display: none; margin: 5px 0;">
