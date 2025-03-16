@@ -45,7 +45,6 @@ function toggleAbstract(id) {
   <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   
   <!-- Break to move co-author lines below -->
-  <br>
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta  
 - In preparation for a submission to <i>Information Systems Research<i>
 - Presented at WISE 2024  
@@ -66,7 +65,6 @@ function toggleAbstract(id) {
   <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   
   <!-- Break to move co-author lines below -->
-  <br>
 - <b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray  
 - In preparation for a submission to a top-tier journal
 - Presented at WITS 2024  
@@ -87,7 +85,6 @@ function toggleAbstract(id) {
   <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   
   <!-- Break to move co-author lines below -->
-  <br>
 - with Alok Gupta, Teng Ye  
 - Analysis in progress (Targeting <i>Management Science Special Issue on Digital Finance<i>)
 
@@ -107,7 +104,6 @@ function toggleAbstract(id) {
   <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   
   <!-- Break to move co-author lines below -->
-  <br> 
 - Analysis in progress
 - with Alok Gupta 
 
@@ -126,7 +122,6 @@ function toggleAbstract(id) {
   <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   
   <!-- Break to move co-author lines below -->
-  <br>
 - <b>YoungJin Kwon</b>, Agnes Yang
 
   <!-- Abstract content is hidden by default -->
@@ -145,7 +140,6 @@ function toggleAbstract(id) {
   <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   
   <!-- Break to move co-author lines below -->
-  <br>
 - <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim  
 - Presented at WISE 2019  
 - Best paper award at Post-ICIS KrAIS Research Workshop 2019
