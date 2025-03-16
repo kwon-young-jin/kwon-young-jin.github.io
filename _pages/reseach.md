@@ -59,7 +59,7 @@ function toggleAbstract(id) {
       This paper explores...
     </p>
   </div>
-</div>
+
 
 <!-- Paper 2 -->
 <b>Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>  
@@ -80,10 +80,10 @@ function toggleAbstract(id) {
       This paper explores...
     </p>
   </div>
-</div>
+
 
 <!-- Paper 3 -->
-<b>Antecedents and Consequences of NFT Wash Trading</b> (<i>Potential job market paper</i>)  
+<b>Why NFT Market Has Crashed: Antecedents and Consequences of Wash Trading</b> (<i>Potential job market paper</i>)  
   <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   
   <!-- Break to move co-author lines below -->
@@ -98,7 +98,7 @@ function toggleAbstract(id) {
       This paper explores...
     </p>
   </div>
-</div>
+
 
 `AI Creativity and Productivity`
 
@@ -118,7 +118,7 @@ function toggleAbstract(id) {
       This paper explores...
     </p>
   </div>
-</div>
+
 
 <!-- Paper 5 -->
 <b>The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>  
@@ -136,7 +136,7 @@ function toggleAbstract(id) {
       This paper explores...
     </p>
   </div>
-</div>
+
 
 `Platform Economy`
 
@@ -157,4 +157,4 @@ function toggleAbstract(id) {
       This paper explores...
     </p>
   </div>
-</div>
+
