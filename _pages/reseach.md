@@ -131,7 +131,7 @@ function toggleAbstract(id) {
   </div>
 </div>
 
-`Platform Economy`
+`Sharing Economy`
 
 <!-- Paper 6 -->
 <div class="paper-container">
