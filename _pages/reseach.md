@@ -45,18 +45,15 @@ function toggleAbstract(id) {
 
 <!-- Paper 1 -->
 <div class="paper-container">
-  <!-- Title and button on the same line -->
   <div class="paper-title-line">
     <b>From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   </div>
-  <!-- Visible details below -->
   - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta  
   - Presented at WISE 2024  
   - Presented at INFORMS ISR - ISS Paper Development Workshop 2024  
   - Presented at WITS 2023
 
-  <!-- Hidden abstract text -->
   <div id="abstract1" style="display: none; margin-top: 5px;">
     <p>
       This paper explores how...
@@ -71,7 +68,7 @@ function toggleAbstract(id) {
     <button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
   </div>
   - <b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray  
-  - In preparation for a submission to a top-tier journal
+  - In preparation for a submission to a top-tier journal  
   - Presented at WITS 2024  
   - Presented at CIST 2024  
   - Presented at INFORMS Annual Meeting 2024
@@ -83,15 +80,14 @@ function toggleAbstract(id) {
   </div>
 </div>
 
-
 <!-- Paper 3 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>AWhy NFT Market Has Crashed? Antecedents and Consequences of Wash Trading</b> (<i>Potential job market paper</i>)
+    <b>Why NFT Market Has Crashed? Antecedents and Consequences of Wash Trading</b> (<i>Potential job market paper</i>)
     <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
   </div>
   - with Alok Gupta, Teng Ye  
-- Analysis in progress (Targeting <i>Management Science Special Issue on Digital Finance<i>)
+  - Analysis in progress (Targeting <i>Management Science</i> Special Issue on Digital Finance)
 
   <div id="abstract3" style="display: none; margin-top: 5px;">
     <p>
@@ -121,11 +117,11 @@ function toggleAbstract(id) {
 <!-- Paper 5 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>  
-- Analysis in progress</b>
+    <b>The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
-- <b>YoungJin Kwon</b>, Agnes Yang
+  - Analysis in progress  
+  - <b>YoungJin Kwon</b>, Agnes Yang
 
   <div id="abstract5" style="display: none; margin-top: 5px;">
     <p>
