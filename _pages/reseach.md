@@ -84,7 +84,7 @@ function toggleAbstract(id) {
 <!-- Paper 3 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(3) Why NFT Market Has Crashed? Antecedents and Consequences of Wash Trading</b>
+    <b>(3) Why Has NFT Market Crashed? Antecedents and Consequences of Wash Trading</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
   </div>
   <ul>
@@ -102,7 +102,7 @@ function toggleAbstract(id) {
 <!-- Paper 4 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>
+    <b>(1) The Unintended Consequence: How LLMs Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
   <ul>
