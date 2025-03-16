@@ -58,7 +58,7 @@ function toggleAbstract(id) {
   </ul>
 
   <div id="abstract1" style="display: none; margin-top: 5px;">
-    <p>This paper explores how...</p>
+    <p>Abstract coming soon...</p>
   </div>
 </div>
 
@@ -146,6 +146,6 @@ function toggleAbstract(id) {
   </ul>
 
   <div id="abstract6" style="display: none; margin-top: 5px;">
-    <p>This research investigates...</p>
+    <p>Abstract coming soon...</p>
   </div>
 </div>
