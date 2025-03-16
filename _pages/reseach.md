@@ -7,7 +7,26 @@ nav: true
 nav_order: 1
 ---
 
-<!-- 1) Add a simple JavaScript toggle function. -->
+<!-- 1) Style the Abstract Buttons -->
+<style>
+  /* Simple styling for all buttons with the .abstract-button class */
+  .abstract-button {
+    background-color: #0066cc;     /* Primary background color */
+    color: #ffffff;               /* Text color */
+    border: none;                 /* Remove default border */
+    border-radius: 4px;           /* Slightly round corners */
+    padding: 6px 12px;            /* Spacing inside the button */
+    cursor: pointer;              /* Cursor changes to pointer on hover */
+    font-size: 0.9rem;            /* Adjust text size as needed */
+    font-family: sans-serif;      /* Use a cleaner font (optional) */
+  }
+  /* Hover effect */
+  .abstract-button:hover {
+    background-color: #0052a3;    /* Darken the background slightly on hover */
+  }
+</style>
+
+<!-- 2) A simple JavaScript function to toggle show/hide any element by ID. -->
 <script>
 function toggleAbstract(id) {
   const element = document.getElementById(id);
@@ -28,14 +47,11 @@ function toggleAbstract(id) {
 - Presented at INFORMS ISR - ISS Paper Development Workshop 2024  
 - Presented at WITS 2023
 
-<!-- The Abstract button goes at the end of the paper info -->
-<button onclick="toggleAbstract('abstract1')">Abstract</button>
-
-<!-- Only the actual abstract content goes here, hidden by default -->
+<!-- Abstract Button and Hidden Abstract -->
+<button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
 <div id="abstract1" style="display: none; margin: 5px 0;">
   <p>
-    <!-- Put the paper’s abstract here -->
-    This paper explores...
+    This paper explores how...
   </p>
 </div>
 
@@ -48,10 +64,9 @@ function toggleAbstract(id) {
 - Presented at CIST 2024  
 - Presented at INFORMS Annual Meeting 2024
 
-<button onclick="toggleAbstract('abstract2')">Abstract</button>
+<button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
 <div id="abstract2" style="display: none; margin: 5px 0;">
   <p>
-    <!-- Put the paper’s abstract here -->
     This paper examines...
   </p>
 </div>
@@ -65,11 +80,10 @@ function toggleAbstract(id) {
 - with Alok Gupta, Teng Ye  
 - Analysis in progress 
 
-<button onclick="toggleAbstract('abstract3')">Abstract</button>
+<button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
 <div id="abstract3" style="display: none; margin: 5px 0;">
   <p>
-    <!-- Put the paper’s abstract here -->
-    Coming soon...
+    Abstract coming soon...
   </p>
 </div>
 
@@ -80,11 +94,10 @@ function toggleAbstract(id) {
 - with Alok Gupta  
 - Analysis in progress
 
-<button onclick="toggleAbstract('abstract4')">Abstract</button>
+<button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
 <div id="abstract4" style="display: none; margin: 5px 0;">
   <p>
-    <!-- Put the paper’s abstract here -->
-    Coming soon...
+    Abstract coming soon...
   </p>
 </div>
 
@@ -96,10 +109,9 @@ function toggleAbstract(id) {
 - Presented at WISE 2019  
 - Best paper award at Post-ICIS KrAIS Research Workshop 2019
 
-<button onclick="toggleAbstract('abstract5')">Abstract</button>
+<button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
 <div id="abstract5" style="display: none; margin: 5px 0;">
   <p>
-    <!-- Put the paper’s abstract here -->
-    This research investigates...
+    Abstract here...
   </p>
 </div>
