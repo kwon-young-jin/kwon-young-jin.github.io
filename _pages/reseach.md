@@ -11,7 +11,7 @@ nav_order: 1
 <style>
   /* Simple styling for all buttons with the .abstract-button class */
   .abstract-button {
-    background-color: #0066cc;     /* Primary background color */
+    background-color: #aaa;     /* Primary background color */
     color: #ffffff;               /* Text color */
     border: none;                 /* Remove default border */
     border-radius: 4px;           /* Slightly round corners */
@@ -42,84 +42,119 @@ function toggleAbstract(id) {
 
 <!-- Paper 1 -->
 <b>From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>  
+  <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
+  
+  <!-- Break to move co-author lines below -->
+  <br>
 - <b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta  
 - In preparation for a submission to <i>Information Systems Research<i>
 - Presented at WISE 2024  
 - Presented at INFORMS ISR - ISS Paper Development Workshop 2024  
 - Presented at WITS 2023
 
-<!-- Abstract Button and Hidden Abstract -->
-<button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
-<div id="abstract1" style="display: none; margin: 5px 0;">
-  <p>
-    This paper explores how...
-  </p>
+  <!-- Abstract content is hidden by default -->
+  <div id="abstract1" style="display: none; margin-top: 5px;">
+    <p>
+      <!-- Your actual abstract text here -->
+      This paper explores...
+    </p>
+  </div>
 </div>
 
 <!-- Paper 2 -->
 <b>Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>  
+  <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
+  
+  <!-- Break to move co-author lines below -->
+  <br>
 - <b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray  
 - In preparation for a submission to a top-tier journal
 - Presented at WITS 2024  
 - Presented at CIST 2024  
 - Presented at INFORMS Annual Meeting 2024
 
-<button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
-<div id="abstract2" style="display: none; margin: 5px 0;">
-  <p>
-    This paper examines...
-  </p>
+  <!-- Abstract content is hidden by default -->
+  <div id="abstract1" style="display: none; margin-top: 5px;">
+    <p>
+      <!-- Your actual abstract text here -->
+      This paper explores...
+    </p>
+  </div>
 </div>
 
 <!-- Paper 3 -->
 <b>Antecedents and Consequences of NFT Wash Trading</b> (<i>Potential job market paper</i>)  
+  <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
+  
+  <!-- Break to move co-author lines below -->
+  <br>
 - with Alok Gupta, Teng Ye  
 - Analysis in progress (Targeting <i>Management Science Special Issue on Digital Finance<i>)
 
-<button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
-<div id="abstract3" style="display: none; margin: 5px 0;">
-  <p>
-    Abstract coming soon...
-  </p>
+  <!-- Abstract content is hidden by default -->
+  <div id="abstract1" style="display: none; margin-top: 5px;">
+    <p>
+      <!-- Your actual abstract text here -->
+      This paper explores...
+    </p>
+  </div>
 </div>
 
 `AI Creativity and Productivity`
 
 <!-- Paper 4 -->
-<b>Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>  
+<b>Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b> 
+  <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
+  
+  <!-- Break to move co-author lines below -->
+  <br> 
 - Analysis in progress
 - with Alok Gupta 
 
-<button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
-<div id="abstract4" style="display: none; margin: 5px 0;">
-  <p>
-    Abstract coming soon...
-  </p>
+  <!-- Abstract content is hidden by default -->
+  <div id="abstract1" style="display: none; margin-top: 5px;">
+    <p>
+      <!-- Your actual abstract text here -->
+      This paper explores...
+    </p>
+  </div>
 </div>
 
 <!-- Paper 5 -->
 <b>The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>  
 - Analysis in progress
+  <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
+  
+  <!-- Break to move co-author lines below -->
+  <br>
 - <b>YoungJin Kwon</b>, Agnes Yang
 
-<button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
-<div id="abstract5" style="display: none; margin: 5px 0;">
-  <p>
-    Abstract coming soon...
-  </p>
+  <!-- Abstract content is hidden by default -->
+  <div id="abstract1" style="display: none; margin-top: 5px;">
+    <p>
+      <!-- Your actual abstract text here -->
+      This paper explores...
+    </p>
+  </div>
 </div>
 
 `Platform Economy`
 
 <!-- Paper 6 -->
 <b>Friend or Foe? Bike-sharing and Ride-sharing in New York City</b> (<i>Master's Thesis</i>)  
+  <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
+  
+  <!-- Break to move co-author lines below -->
+  <br>
 - <b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim  
 - Presented at WISE 2019  
 - Best paper award at Post-ICIS KrAIS Research Workshop 2019
 
-<button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
-<div id="abstract6" style="display: none; margin: 5px 0;">
-  <p>
-    Abstract here...
-  </p>
+  <!-- Abstract content is hidden by default -->
+  <div id="abstract1" style="display: none; margin-top: 5px;">
+    <p>
+      <!-- Your actual abstract text here -->
+      This paper explores...
+    </p>
+  </div>
 </div>
