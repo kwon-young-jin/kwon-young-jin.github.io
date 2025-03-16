@@ -46,8 +46,24 @@ function toggleAbstract(id) {
 <!-- Paper 1 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>
+    <b>(1) Why Has NFT Market Crashed? Antecedents and Consequences of Wash Trading</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
+  </div>
+  <ul>
+    <li>with Alok Gupta, Teng Ye</li>
+    <li>Targeting <i>Management Science</i> Special Issue on Digital Finance</li>
+  </ul>
+
+  <div id="abstract1" style="display: none; margin-top: 5px;">
+    <p>Abstract coming soon...</p>
+  </div>
+</div>
+
+<!-- Paper 2 -->
+<div class="paper-container">
+  <div class="paper-title-line">
+    <b>(2) From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>
+    <button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta</li>
@@ -57,16 +73,16 @@ function toggleAbstract(id) {
     <li>Presented at WITS 2023</li>
   </ul>
 
-  <div id="abstract1" style="display: none; margin-top: 5px;">
+  <div id="abstract2" style="display: none; margin-top: 5px;">
     <p>As digital technologies create new products and services, new market participants exhibit diverse sets of behaviors that are rarely predicted by the singular theoretical lens.  IS research has taken the lead in examining user behaviors and developed new measures and even theoretical paradigms to examine emerging products and markets (Bapna et al., 2004).  The rise of Non-Fungible Tokens (NFTs) has attracted global attention and significant investment; however, collector/investor strategies and their investment performance in this nascent market remain largely unexplored.  This paper systematically analyzes the performance of different collector groups in the NFT market using transaction data from prominent NFT art collections.  We examine portfolio returns and realized returns across several collector groups, identified through cluster analysis, where the emphasis was on identifying and interpreting distinct behaviors that might indicate different strategic or tactical investor goals. The study discovers and analyzes trader activities through a significant boom-bust cycle that is discernible through overall market valuation, turnover, volatility, and trading characteristics. The key findings of our study reveal that NFT markets do not show a close resemblance to art collector markets, nor do they exhibit the characteristics of investing markets.  In particular, we find: i) Contrary to expectations from traditional art economics, art collectors who prioritize holding NFTs for an extended period (Buy-and-Holder investors) outperform speculators who chase popular NFTs (Popularity Investors); ii) collectors who concentrate their investments in extremely high-priced NFTs (Masterpiece Collectors) underperform, despite the high demand for such NFTs; iii) collectors with extensive trading experience (Active Traders) tend to outperform, but this advantage is limited to those who entered the market during pre-boom or boom periods; iv) outperforming collector groups tend to minimize extrapolation of past returns but maximize participation in early NFT sales.  Overall, our research provides valuable contributions to the growing literature on blockchain-based digital asset markets and art economics, offering insights into investor behavior, market efficiency, and the dynamics of boom-bust cycles.</p>
   </div>
 </div>
 
-<!-- Paper 2 -->
+<!-- Paper 3 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(2) Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>
-    <button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
+    <b>(3) Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>
+    <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray</li>
@@ -74,22 +90,6 @@ function toggleAbstract(id) {
     <li>Presented at WITS 2024</li>
     <li>Presented at CIST 2024</li>
     <li>Presented at INFORMS Annual Meeting 2024</li>
-  </ul>
-
-  <div id="abstract2" style="display: none; margin-top: 5px;">
-    <p>Abstract coming soon...</p>
-  </div>
-</div>
-
-<!-- Paper 3 -->
-<div class="paper-container">
-  <div class="paper-title-line">
-    <b>(3) Why Has NFT Market Crashed? Antecedents and Consequences of Wash Trading</b>
-    <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
-  </div>
-  <ul>
-    <li>with Alok Gupta, Teng Ye</li>
-    <li>Targeting <i>Management Science</i> Special Issue on Digital Finance</li>
   </ul>
 
   <div id="abstract3" style="display: none; margin-top: 5px;">
@@ -111,7 +111,7 @@ function toggleAbstract(id) {
   </ul>
 
   <div id="abstract5" style="display: none; margin-top: 5px;">
-    <p>Abstract coming soon...</p>
+    <p>There is significant discussion around how large language models (LLMs) might impact knowledge workers' productivity, but how heterogeneous will these impacts be? Non-native English-speaking (NNES) researchers have traditionally faced disadvantages in academic writing (Liao et al., 2024). In this study, we examine how the introduction of LLMs has amplified or diminished the research productivity gap between NNES and native English-speaking (NES) researchers. We analyze data from 4,582 computer science scholars across 194 top-ranked universities, spanning 2018 to 2024, with a total of 251,124 research papers. Our difference-in-differences and generalized synthetic control estimations reveal that, after the introduction of LLMs, NES researchers produced 4.6% more papers than NNES researchers. This gap remains robust across other measures: a 3.5% difference in the number of first-author papers and a 1% gap in the number of top-tier conference papers. Our findings indicate that LLMs may have exacerbated disparities between advantaged and disadvantaged groups, even among knowledge-based workers.</p>
   </div>
 </div>
 
