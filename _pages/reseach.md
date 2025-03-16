@@ -46,7 +46,7 @@ function toggleAbstract(id) {
 <!-- Paper 1 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>
+    <b>(1) From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
   </div>
   <ul>
@@ -65,7 +65,7 @@ function toggleAbstract(id) {
 <!-- Paper 2 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>
+    <b>(2) Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
   </div>
   <ul>
@@ -84,7 +84,7 @@ function toggleAbstract(id) {
 <!-- Paper 3 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>Why NFT Market Has Crashed? Antecedents and Consequences of Wash Trading</b>
+    <b>(3) Why NFT Market Has Crashed? Antecedents and Consequences of Wash Trading</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
   </div>
   <ul>
@@ -102,23 +102,7 @@ function toggleAbstract(id) {
 <!-- Paper 4 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>
-    <button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
-  </div>
-  <ul>
-    <li>with Alok Gupta</li>
-    <li>Analysis in progress</li>
-  </ul>
-
-  <div id="abstract4" style="display: none; margin-top: 5px;">
-    <p>Abstract coming soon...</p>
-  </div>
-</div>
-
-<!-- Paper 5 -->
-<div class="paper-container">
-  <div class="paper-title-line">
-    <b>The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>
+    <b>(2) The Unintended Consequence: How ChatGPT Amplifies the Research Productivity Gap Between Native and Non-Native English-Speaking Scholars</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
   <ul>
@@ -131,12 +115,28 @@ function toggleAbstract(id) {
   </div>
 </div>
 
+<!-- Paper 5 -->
+<div class="paper-container">
+  <div class="paper-title-line">
+    <b>(1) Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>
+    <button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
+  </div>
+  <ul>
+    <li>with Alok Gupta</li>
+    <li>Analysis in progress</li>
+  </ul>
+
+  <div id="abstract4" style="display: none; margin-top: 5px;">
+    <p>Abstract coming soon...</p>
+  </div>
+</div>
+
 `Platform Economy`
 
 <!-- Paper 6 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>Friend or Foe? Bike-sharing and Ride-sharing in New York City</b>
+    <b>(1) Friend or Foe? Bike-sharing and Ride-sharing in New York City</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
   </div>
   <ul>
