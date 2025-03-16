@@ -140,7 +140,7 @@ function toggleAbstract(id) {
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim</li>
-    <li>Presented at WISE 2019</li>
+    <li>Presented at WISE 2019</li> ((& <i>Master's Thesis</i>))
     <li>Best paper award at Post-ICIS KrAIS Research Workshop 2019</li>
   </ul>
 
