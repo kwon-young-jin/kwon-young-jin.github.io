@@ -26,4 +26,4 @@ I examine how emerging technologies are reshaping creator economy, with a partic
 * `AI Creativity and Productivity`: In this line of research, I investigate how people perceive and value art co-created by humans and AI, applying techniques from the field of Computational Aesthetics (<b>Study 4</b>).
 I also examine how large language models (LLMs) affect knowledge workers’ productivity, with preliminary findings suggesting that LLM use may exacerbate existing disparities between advantaged and disadvantaged groups—even within knowledge-based professions (<b>Study 5</b>).
 
-I will be on the job market 2025-2026 year!
+<b>I will be on the job market 2025-2026 year!</b>
