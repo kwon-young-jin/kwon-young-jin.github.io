@@ -15,4 +15,5 @@ Whenever I'm not working, you'll most likely find me engaged in one of these act
 - Enjoying a good film (Fun fact: I've watched 1,100+ movies to date)
 - Bouldering
 - Swimming
+- Watching NBA games in person and online (though not necessarily a fan of the Minnesota Timberwolves...)
 - Camping and grilling (Fun fact: I'm dead serious about cooking the perfect steak)
