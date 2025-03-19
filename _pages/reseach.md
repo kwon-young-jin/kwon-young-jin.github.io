@@ -51,6 +51,7 @@ function toggleAbstract(id) {
   </div>
   <ul>
     <li>with Alok Gupta, Teng Ye</li>
+    <li>Potential job market paper</li>
     <li>Targeting <i>Management Science</i> Special Issue on Digital Finance</li>
   </ul>
 
