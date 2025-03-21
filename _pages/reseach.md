@@ -103,7 +103,7 @@ function toggleAbstract(id) {
 <!-- Paper 4 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) The Unintended Consequence: LLMs Amplify the Research Productivity Gap</b>
+    <b>(1) LLMs Amplify the Research Productivity Gap: English Nativeness Matters</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
   <ul>
