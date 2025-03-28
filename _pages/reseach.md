@@ -107,7 +107,7 @@ function toggleAbstract(id) {
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
   <ul>
-    <li><b>YoungJin Kwon</b>, Agnes Yang</li>
+    <li><b>YoungJin Kwon</b></li>
     <li>Analysis in progress</li>
   </ul>
 
