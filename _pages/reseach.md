@@ -103,7 +103,7 @@ function toggleAbstract(id) {
 <!-- Paper 4 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) LLMs Amplify the Research Productivity Gap: English Nativeness Matters</b>
+    <b>(1) Large Language Models in Academia: Boosting Productivity, Reinforcing Inequality</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
   </div>
   <ul>
