@@ -125,7 +125,7 @@ nav_order: 1
   </div>
 </div>
 
-`AI Creativity and Productivity`
+`GenAI Creativity and Productivity`
 
 <!-- Paper 4 -->
 <div class="paper-container">
