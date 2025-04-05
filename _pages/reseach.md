@@ -130,7 +130,7 @@ nav_order: 1
 <!-- Paper 4 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Large Language Models in Academia: Boosting Productivity, Reinforcing Inequality</b>
+    <b>(1) Large Language Models in Academia: Boosting Productivity and Reinforcing Inequity</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract4', this)">Abstract</button>
   </div>
   <ul>
