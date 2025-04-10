@@ -78,7 +78,7 @@ nav_order: 1
   </div>
   <ul>
     <li>with Alok Gupta, Teng Ye</li>
-    <li>Potential job market paper</li>
+    <li>Job market paper</li>
     <li>Targeting <i>Management Science</i> Special Issue on Digital Finance</li>
   </ul>
 
