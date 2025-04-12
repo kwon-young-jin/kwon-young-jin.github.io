@@ -109,7 +109,7 @@ nav_order: 1
 <!-- Paper 3 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(3) Inclusion by Design: How Disintermediation through Art NFT Empowers Minority Artists</b>
+    <b>(3) Tokenized Access: How NFT Market Empowers Minority Artists</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract3', this)">Abstract</button>
   </div>
   <ul>
