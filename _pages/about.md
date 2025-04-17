@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 <b>I will be on the job market 2025-2026 year!</b>
 
-I examine how emerging technologies are reshaping creator economy (e.g., visual artists and musicians), with a particular focus on the rise of blockchain-based digital asset markets and advancements in generative AI.
+I examine how emerging technologies are reshaping creator economy (e.g., artists and musicians), with a particular focus on the rise of blockchain-based digital asset markets and advancements in generative AI.
 
 * `Blockchain-Based Digital Asset Markets`: I explore the “yin and yang” of NFT markets, beginning with an investigation into the different types of NFT collectors and how their investment performance shifts across boom-bust cycles (<b>Study 1</b>). I then examine how the decentralized nature of NFT markets might help address longstanding gender and racial disparities in traditional art markets (<b>Study 2</b>). On the flip side, I also study how these largely unregulated markets enable manipulative behaviors—such as wash trading—that can ultimately contribute to market crashes (<b>Study 3</b>).
 
