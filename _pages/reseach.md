@@ -121,7 +121,7 @@ nav_order: 1
   </ul>
 
 <div id="abstract3" class="abstract-box">
-    <p>Abstract coming soon...</p>
+    <p>Web3 has ushered in a decentralized digital ecosystem enabled by blockchain technology, reducing reliance on traditional gatekeepers and intermediaries. This transformation raises a critical question: <li>How does this new environment affect existing gender and racial disparities?</li> To address this, we analyze approximately 27,000 sales and 90,000 offers and bids involving 40,000 NFTs created by 2,500 artists on SuperRare, a leading NFT art marketplace. Our findings offer a nuanced view of the NFT art market: (i) While White male artists continue to dominate in terms of supply volume, their dominance is less pronounced than in traditional art markets; (ii) non-White artists face more pronounced disadvantages in both sales probability and price compared to White male artists, with disparities exceeding those experienced by female artists; and (iii) self-curation (artists' ability to signal quality) plays a critical role in mitigating these disparities, with minority artists benefiting more from verifiable quality signals. This study contributes to a deeper understanding of how decentralization intersects with equity in emerging digital markets.</p>
   </div>
 </div>
 
