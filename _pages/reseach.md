@@ -135,7 +135,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b></li>
-    <li>Manuscript available</li>
+    <li>To be presented at INFORMS Annual Meeting 2025</li>
   </ul>
 
 <div id="abstract4" class="abstract-box">
