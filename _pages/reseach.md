@@ -135,7 +135,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b></li>
-    <li>To be presented at Wharton Annual Business & Generative AI Workshop</li>
+    <li>To be presented at Wharton School Annual Business & Generative AI Workshop</li>
     <li>To be presented at INFORMS Annual Meeting 2025</li>
   </ul>
 
