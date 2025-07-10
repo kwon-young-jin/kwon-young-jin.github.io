@@ -34,7 +34,7 @@ My work investigates how <em>emerging digital technologies</em> reshape the crea
   </li>
 
   <li><strong>Generative-AI Creativity &amp; Productivity</strong><br>
-      • <b>Study&nbsp;4.</b>  How do audiences value artwork co-created by humans and AI?<br>
-      • <b>Study&nbsp;5.</b>  Large-language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native- vs.&nbsp;non-native English researchers, creating a new digital divide.
+      • <b>Study&nbsp;4.</b>  Large-language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native- vs.&nbsp;non-native English researchers, creating a new digital divide.
+     • <b>Study&nbsp;5.</b>  How do audiences value artwork co-created by humans and AI?<br>
   </li>
 </ul>
