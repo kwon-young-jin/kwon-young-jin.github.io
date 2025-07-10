@@ -19,11 +19,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<b>I will be on the job market 2025-2026 year!</b>
+<p><strong>I will be on the 2025–2026 academic job market!</strong></p>
 
-I examine how emerging technologies are reshaping creator economy (e.g., artists and musicians), with a particular focus on the rise of blockchain-based digital asset markets and advancements in generative AI.
+<p>
+My work investigates how <em>emerging digital technologies</em> reshape the creator economy from artists and musicians to scholars, paying special attention to equity and inclusion. I concentrate on two intertwined streams:
+</p>
 
-* `Blockchain-Based Digital Asset Markets`: I explore the “yin and yang” of NFT markets, beginning with an investigation into the different types of NFT collectors and how their investment performance shifts across boom-bust cycles (<b>Study 1</b>). I then examine how the decentralized nature of NFT markets might help address longstanding gender and racial disparities in traditional art markets (<b>Study 2</b>). On the flip side, I also study how these largely unregulated markets enable manipulative behaviors—such as wash trading—that can ultimately contribute to market crashes (<b>Study 3</b>).
+<ul>
+  <li><strong>Blockchain-Based Digital Asset Markets</strong><br>
+      I study the <em>yin and yang</em> of non-fungible-token (NFT) markets.<br>
+      • <b>Study&nbsp;1.</b>  Who collects NFTs and how do their portfolios perform across boom–bust cycles?<br>
+      • <b>Study&nbsp;2.</b>  Can decentralization narrow long-standing gender and racial gaps in art pricing?<br>
+      • <b>Study&nbsp;3.</b>  How do fradulent behaviors such as wash trading contribute to market crashes?
+  </li>
 
-* `GenAI Creativity and Productivity`: In this line of research, I investigate how people perceive and value art co-created by humans and AI, applying techniques from the field of Computational Aesthetics (<b>Study 4</b>).
-I also examine how large language models (LLMs) affect knowledge workers’ productivity, with preliminary findings suggesting that while LLMs contribute to overall productivity gains, they may also exacerbate existing disparities among researchers (<b>Study 5</b>).
+  <li><strong>Generative-AI Creativity &amp; Productivity</strong><br>
+      • <b>Study&nbsp;4.</b>  How do audiences value artwork co-created by humans and AI?<br>
+      • <b>Study&nbsp;5.</b>  Large-language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native- vs.&nbsp;non-native English researchers, creating a new digital divide.
+  </li>
+</ul>
