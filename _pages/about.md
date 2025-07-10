@@ -26,14 +26,15 @@ My work investigates how <em>emerging digital technologies</em> reshape the crea
 </p>
 
 <ul>
-  <li><mark><strong>Blockchain-Based Digital Asset Markets</strong></mark><br>      I study the <em>yin and yang</em> of non-fungible-token (NFT) markets.<br>
-      • <b>Study&nbsp;1.</b>  Who collects NFTs and how do their portfolios perform across boom–bust cycles?<br>
-      • <b>Study&nbsp;2.</b>  Can decentralization narrow long-standing gender and racial gaps in art pricing?<br>
-      • <b>Study&nbsp;3.</b>  How do fradulent behaviors such as wash trading contribute to market crashes? <span style="color: purple;">(Job Market Paper)</span>
+  <li><mark style="background-color:#e5d0ff;"><strong>Blockchain-Based Digital Asset Markets</strong></mark><br>
+      I study the <em>yin and yang</em> of non-fungible-token (NFT) markets.<br>
+      • <b>Study&nbsp;1.</b> Who collects NFTs and how do their portfolios perform across boom–bust cycles?<br>
+      • <b>Study&nbsp;2.</b> Can decentralization narrow long-standing gender and racial gaps in art pricing?<br>
+      • <b>Study&nbsp;3.</b> How do fraudulent behaviors such as wash trading contribute to market crashes? <span style="color: purple;">(Job Market Paper)</span>
   </li>
 
-   <li><strong>Generative-AI Creativity &amp; Productivity</strong><br>
-    • <b>Study&nbsp;4.</b>  Large-language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native- vs.&nbsp;non-native English researchers, creating a new digital divide<br>
-     • <b>Study&nbsp;5.</b>  How do audiences value artwork co-created by humans and AI?<br>
+  <li style="margin-top:1em;"><mark style="background-color:#e5d0ff;"><strong>Generative-AI Creativity &amp; Productivity</strong></mark><br>
+      • <b>Study&nbsp;4.</b> Large-language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native- vs.&nbsp;non-native English researchers, creating a new digital divide.<br>
+      • <b>Study&nbsp;5.</b> How do audiences value artwork co-created by humans and AI?<br>
   </li>
 </ul>
