@@ -26,15 +26,12 @@ My work investigates how <em>emerging digital technologies</em> reshape the crea
 </p>
 
 <p><mark style="background-color:#e5d0ff;"><strong>Blockchain-Based Digital Asset Markets</strong></mark></p>
-<ul>
-  <li><b>Study&nbsp;1.</b> Who collects NFTs and how do their portfolios perform across boom–bust cycles?</li>
-  <li><b>Study&nbsp;2.</b> Can decentralization narrow long-standing gender and racial gaps in art pricing?</li>
-  <li><b>Study&nbsp;3.</b> How do fraudulent behaviors such as wash trading contribute to market crashes? <span style="color: purple;">(Job Market Paper)</span></li>
-</ul>
+<p><b>Study&nbsp;1.</b> Who collects NFTs and how do their portfolios perform across boom–bust cycles?</p>
+<p><b>Study&nbsp;2.</b> Can decentralization narrow long‑standing gender and racial gaps in art pricing?</p>
+<p><b>Study&nbsp;3.</b> How do fraudulent behaviors such as wash trading contribute to market crashes? <span style="color: purple;">(Job Market Paper)</span></p>
 
 <p><mark style="background-color:#e5d0ff;"><strong>Generative‑AI Creativity &amp; Productivity</strong></mark></p>
-<ul>
-  <li><b>Study&nbsp;4.</b> Large‑language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native‑ vs.&nbsp;non‑native English researchers, creating a new digital divide.</li>
-  <li><b>Study&nbsp;5.</b> How do audiences value artwork co‑created by humans and AI?</li>
-</ul>
+<p><b>Study&nbsp;4.</b> Large‑language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native‑ vs.&nbsp;non‑native English researchers, creating a new digital divide.</p>
+<p><b>Study&nbsp;5.</b> How do audiences value artwork co‑created by humans and AI?</p>
+
 
