@@ -29,7 +29,7 @@ My work investigates how <em>emerging digital technologies</em> reshape the crea
   <li><mark><strong>Blockchain-Based Digital Asset Markets</strong></mark><br>      I study the <em>yin and yang</em> of non-fungible-token (NFT) markets.<br>
       • <b>Study&nbsp;1.</b>  Who collects NFTs and how do their portfolios perform across boom–bust cycles?<br>
       • <b>Study&nbsp;2.</b>  Can decentralization narrow long-standing gender and racial gaps in art pricing?<br>
-      • <b>Study&nbsp;3.</b>  How do fradulent behaviors such as wash trading contribute to market crashes? (Job Market Paper)
+      • <b>Study&nbsp;3.</b>  How do fradulent behaviors such as wash trading contribute to market crashes? <span style="color: purple;">(Job Market Paper)</span>
   </li>
 
    <li><strong>Generative-AI Creativity &amp; Productivity</strong><br>
