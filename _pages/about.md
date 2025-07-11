@@ -32,7 +32,7 @@ My work investigates how emerging digital technologies reshape the creator econo
 
 
 <p><mark style="background-color:#e5d0ff;"><strong>Generative‑AI Creativity &amp; Productivity</strong></mark></p>
-<p><b>Study&nbsp;4.</b> Large‑language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native‑ vs.&nbsp;non‑native English researchers, creating a new digital divide.</p>
+<p><b>Study&nbsp;4.</b> Large‑language models boost overall scholarly output but may widen gaps between junior vs.&nbsp;senior and native‑ vs.&nbsp;non‑native English researchers, creating a new digital divide.</p>
 <p><b>Study&nbsp;5.</b> How do audiences value artwork co‑created by humans and AI?</p>
 
 
