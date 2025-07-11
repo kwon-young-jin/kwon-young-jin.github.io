@@ -22,13 +22,14 @@ social: false  # includes social icons at the bottom of the page
 <p><strong>I will be on the 2025–2026 job market!</strong></p>
 
 <p>
-My work investigates how <em>emerging digital technologies</em> reshape the creator economy from artists and musicians to scholars, paying special attention to equity and inclusion. I concentrate on two intertwined streams:
+My work investigates how emerging digital technologies reshape the creator economy from artists and musicians to scholars, paying special attention to equity and inclusion. I concentrate on two intertwined streams:
 </p>
 
 <p><mark style="background-color:#e5d0ff;"><strong>Blockchain-Based Digital Asset Markets</strong></mark></p>
-<p><b>Study&nbsp;1.</b> Who collects NFTs and how do their portfolios perform across boom–bust cycles?</p>
+<p><b>Study&nbsp;1.</b> How do fraudulent behaviors such as wash trading contribute to market crashes? <span style="color: purple;">(Job Market Paper)</span></p>
 <p><b>Study&nbsp;2.</b> Can decentralization narrow long‑standing gender and racial gaps in art pricing?</p>
-<p><b>Study&nbsp;3.</b> How do fraudulent behaviors such as wash trading contribute to market crashes? <span style="color: purple;">(Job Market Paper)</span></p>
+<p><b>Study&nbsp;3.</b> Who collects NFTs and how do their portfolios perform across boom–bust cycles?</p>
+
 
 <p><mark style="background-color:#e5d0ff;"><strong>Generative‑AI Creativity &amp; Productivity</strong></mark></p>
 <p><b>Study&nbsp;4.</b> Large‑language models boost overall scholarly output but may widen gaps between senior vs.&nbsp;junior and native‑ vs.&nbsp;non‑native English researchers, creating a new digital divide.</p>
