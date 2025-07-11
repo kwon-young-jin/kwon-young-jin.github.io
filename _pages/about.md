@@ -23,8 +23,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p>
 I am an empirical researcher who employs computational methods, such as computer vision, natural language processing, and causal inference on large-scale data, to examine how digital technologies reshape markets.
-My doctoral work unfolds in two streams: (i) how blockchain- based decentralized markets transform the
-creator economy and (ii) how generative AI boosts human productivity and creativity.
+My doctoral work unfolds in two streams: (i) how blockchain-based decentralized markets transform the creator economy and (ii) how generative AI boosts human productivity and creativity.
 </p>
 
 <p><mark style="background-color:#e5d0ff;"><strong>Blockchain-Based Digital Asset Markets</strong></mark></p>
