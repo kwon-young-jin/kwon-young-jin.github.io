@@ -26,7 +26,7 @@ My work investigates how emerging digital technologies reshape the creator econo
 </p>
 
 <p><mark style="background-color:#e5d0ff;"><strong>Blockchain-Based Digital Asset Markets</strong></mark></p>
-<p><b>Study&nbsp;1.</b> How do fraudulent behaviors such as wash trading contribute to market crashes? <span style="color: purple;">(Job Market Paper)</span></p>
+<p><b>Study&nbsp;1.</b> How do fraudulent behaviors such as wash trading contribute to NFT market crashes? <span style="color: purple;">(Job Market Paper)</span></p>
 <p><b>Study&nbsp;2.</b> Can decentralization narrow long‑standing gender and racial gaps in art pricing?</p>
 <p><b>Study&nbsp;3.</b> Who collects NFTs and how do their portfolios perform across boom–bust cycles?</p>
 
