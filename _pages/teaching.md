@@ -13,7 +13,7 @@ nav_order: 2
 
 - Student Rate of Teaching: 5.27/6 (78% of participation rate)
 
-#### What students said
+##### What students said
 
 > *“YoungJin is the kindest individual and instructor I have ever had. Extremely open to feedback from students so he can improve but also receptive to hearing feedback from others. He is very timely in his responses and understands that this content is difficult for some students and makes accommodations as he sees fit.”*
 
