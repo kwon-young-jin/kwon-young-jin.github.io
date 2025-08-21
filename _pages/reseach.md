@@ -79,11 +79,11 @@ nav_order: 1
   <ul>
     <li>with Alok Gupta, Teng Ye</li>
     <li><span style="color: purple;">Job Market Paper</span></li>
-    <li>Targeting <i>Management Science</i> Special Issue on Digital Finance</li>
+    <li>Targeting <i>Management Science</i></li>
   </ul>
 
 <div id="abstract1" class="abstract-box">
-    <p>The non-fungible-token (NFT) market, long hailed for frictionless, gatekeeper-free trading, experienced a meteoric rise in 2021–2022 before collapsing abruptly in mid-2022. To identify the forces behind this crash, we analyze 15 million on-chain transactions from 867 leading NFT collections. We estimate that wash trading, a fraudulent self-trade behavior designed to fabricate demand, generated approximately US $33 billion, or 47% of recorded trade volume, and was conducted by just 4% of addresses. Our Local Projections with Instrumental Variables (LP-IV) estimations provide four key results. First, increases in wash-trade volume inflate performance metrics (trade count, trader count, capital inflow, and realized returns) during year 1, forming a speculative bubble. Second, the same activities are linked to significant declines across key performance metrics during year 2, crowding out genuine participation and eroding valuations. Third, these boom–bust dynamics are significantly dampened in collections characterized by a higher share of experienced traders, a larger proportion of long-horizon art collectors, and greater trader-network centrality, implying that informed or socially embedded participants buffer speculative shocks. Fourth, trading volume-based reward programs systematically attract wash traders, amplifying both the bubble and its collapse. Taken together, our findings suggest three policy implications for NFT platforms and regulators: (i) implement real-time wash-trade detection in this largely unregulated market, (ii) disclose market-quality indicators, such as the art-collector ratio and network-centrality scores, to support informed investment decisions and enhance market resilience, (iii) redesign volume-based reward programs to deter wash trading.</p>
+    <p>The non-fungible-token (NFT) market, long hailed for frictionless, gatekeeper-free trading, experienced a meteoric rise in 2021–2022 before collapsing abruptly in mid-2022. To identify the forces behind this crash, we analyze 15 million on-chain transactions from 867 leading NFT collections. We estimate that wash trading, a fraudulent self-trade behavior designed to fabricate demand, generated approximately US $33 billion, or 47% of recorded trade volume, and was conducted by just 4% of addresses. Our Local Projections with Instrumental Variables (LP-IV) estimations provide four key results. First, increases in wash-trade volume inflate performance metrics (trade count, trader count, capital inflow, and realized returns) during year 1, forming a speculative bubble. Second, the same activities are linked to significant declines across key performance metrics during year 2, crowding out genuine participation and eroding valuations. Third, these boom–bust dynamics are significantly dampened in collections characterized by a higher share of experienced traders, a larger proportion of long-horizon art collectors, and greater trader-network centrality, implying that informed or socially embedded participants buffer speculative shocks. Fourth, collection-level transaction fees and creator resale royalties deter the entry of wash traders, underscoring the importance of trading frictions while also benefiting creators. Taken together, our findings suggest three policy implications for NFT platforms and regulators: (i) implement real-time wash-trade detection in this largely unregulated market, (ii) disclose market-quality indicators, such as the art-collector ratio and network-centrality scores, to support informed investment decisions and enhance market resilience, and (iii) reconsider recent moves to revoke or make optional collection-level transaction fees and creator resale royalties, given their deterrent effect on wash trading.</p>
   </div>
 </div>
 
@@ -95,7 +95,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta</li>
-    <li>Finalizing for <i>Information Systems Research</i></li>
+    <li>Finalizing for submission to <i>Information Systems Research</i></li>
     <li>Presented at WISE 2024</li>
     <li>Presented at INFORMS ISR - ISS Paper Development Workshop 2024</li>
     <li>Presented at WITS 2023</li>
@@ -114,7 +114,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray</li>
-    <li>Finalizing for <i>Management Science</i></li>
+    <li>Finalizing for submission to <i>MIS Quarterly</i></li>
     <li>Presented at WITS 2024</li>
     <li>Presented at CIST 2024</li>
     <li>Presented at INFORMS Annual Meeting 2024</li>
