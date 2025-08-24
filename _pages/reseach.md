@@ -73,7 +73,7 @@ nav_order: 1
 <!-- Paper 1 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Why Has NFT Market Crashed? Antecedents and Consequences of Wash Trading</b>
+    <b>(1) Why Did the NFT Market Crash? Antecedents and Consequences of Wash Trading</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract1', this)">Abstract</button>
   </div>
   <ul>
