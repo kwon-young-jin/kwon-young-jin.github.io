@@ -90,19 +90,19 @@ nav_order: 1
 <!-- Paper 2 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(2) From Boom to Bust and Beyond: A Longitudinal Analysis of NFT Collector Performance</b>
+    <b>(2) From Boom to Bust and Beyond: Developing an NFT Market Index for a Longitudinal Analysis of NFT Collectors and Their Performance</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract2', this)">Abstract</button>
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta</li>
-    <li>Finalizing for submission to <i>Information Systems Research</i></li>
+    <li>Submitted to <i>Information Systems Research</i></li>
     <li>Presented at WISE 2024</li>
     <li>Presented at INFORMS ISR - ISS Paper Development Workshop 2024</li>
     <li>Presented at WITS 2023</li>
   </ul>
 
 <div id="abstract2" class="abstract-box">
-    <p>As digital technologies create new products and services, new market participants exhibit diverse sets of behaviors that are rarely predicted by the singular theoretical lens.  IS research has taken the lead in examining user behaviors and developed new measures and even theoretical paradigms to examine emerging products and markets (Bapna et al., 2004).  The rise of Non-Fungible Tokens (NFTs) has attracted global attention and significant investment; however, collector/investor strategies and their investment performance in this nascent market remain largely unexplored.  This paper systematically analyzes the performance of different collector groups in the NFT market using transaction data from prominent NFT art collections.  We examine portfolio returns and realized returns across several collector groups, identified through cluster analysis, where the emphasis was on identifying and interpreting distinct behaviors that might indicate different strategic or tactical investor goals. The study discovers and analyzes trader activities through a significant boom-bust cycle that is discernible through overall market valuation, turnover, volatility, and trading characteristics. The key findings of our study reveal that NFT markets do not show a close resemblance to art collector markets, nor do they exhibit the characteristics of investing markets.  In particular, we find: i) Contrary to expectations from traditional art economics, art collectors who prioritize holding NFTs for an extended period (Buy-and-Holder investors) outperform speculators who chase popular NFTs (Popularity Investors); ii) collectors who concentrate their investments in extremely high-priced NFTs (Masterpiece Collectors) underperform, despite the high demand for such NFTs; iii) collectors with extensive trading experience (Active Traders) tend to outperform, but this advantage is limited to those who entered the market during pre-boom or boom periods; iv) outperforming collector groups tend to minimize extrapolation of past returns but maximize participation in early NFT sales.  Overall, our research provides valuable contributions to the growing literature on blockchain-based digital asset markets and art economics, offering insights into investor behavior, market efficiency, and the dynamics of boom-bust cycles.</p>
+    <p>Information Systems researchers have led efforts to understand user behaviors in emerging digital markets that often diverge from traditional theories (Bapna et al. 2004). However, collector behavior in the rising Non-Fungible Token (NFT) markets remains largely unexplored due to a lack of analytical tools and challenges posed by their low-liquidity nature. We address this methodological gap by introducing two novel instruments: an NFT market index adapting the Case-Shiller repeat-sales framework, and a collector-level portfolio return metric considering both realized and unrealized gains. Using transaction data from 56,609 NFTs and 18,733 collectors over 5 years, we identify a complete boom-bust market cycle and uncover distinct collector groups by cluster analysis. We find that unlike traditional art or conventional investment markets, collectors of extremely high-priced NFTs (Masterpiece Collectors) underperform most others. Notably, long-term holders (Buy-and-Holders) outperform speculators chasing popular NFTs (Popularity Collectors). Collectors with extensive trading experience (Active Traders) succeed only if entering during pre-boom and boom but not bust periods. Mechanism analyses reveal that successful groups avoid extrapolating past returns and prioritize early participation in primary sales. This study contributes a novel methodological framework for NFT market analysis and provides actionable insights into boom-bust dynamics and NFT collector behaviors.</p>
   </div>
 </div>
 
@@ -114,14 +114,14 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray</li>
-    <li>Finalizing for submission to <i>MIS Quarterly</i></li>
+    <li>Submitted to <i>MIS Quarterly</i></li>
     <li>Presented at WITS 2024</li>
     <li>Presented at CIST 2024</li>
     <li>Presented at INFORMS Annual Meeting 2024</li>
   </ul>
 
 <div id="abstract3" class="abstract-box">
-    <p>Web3 has ushered in a decentralized digital ecosystem enabled by blockchain technology, reducing reliance on traditional gatekeepers and intermediaries. This transformation raises a critical question: How does this new environment affect existing gender and racial disparities? To address this, we analyze approximately 27,000 sales and 90,000 offers and bids involving 40,000 NFTs created by 2,500 artists on SuperRare, a leading NFT art marketplace. Our findings offer a nuanced view of the NFT art market: (i) While White male artists continue to dominate in terms of supply volume, their dominance is less pronounced than in traditional art markets; (ii) non-White artists face more pronounced disadvantages in both sales probability and price compared to White male artists, with disparities exceeding those experienced by female artists; and (iii) self-curation (artists' ability to signal quality) plays a critical role in mitigating these disparities, with minority artists benefiting more from verifiable quality signals. A series of robustness checks rules out supply-side explanations, such as artist self-underpricing, indicating that the observed disparities are instead driven by taste-based or statistical biases. This study contributes to a deeper understanding of how decentralization intersects with equity in emerging digital markets.</p>
+    <p>Blockchain-based Web3 has created a decentralized digital ecosystem that reduces reliance on traditional gatekeepers and intermediaries. This transformation raises a critical question: How does this new environment affect gender and racial minorities in the art market? To address this, we analyze approximately 27,000 sales and 90,000 offers/bids involving 40,000 NFTs created by 2,500 artists on SuperRare, a leading curated NFT art market, proposing a nuanced view of the NFT art market: (i) White male artists still dominate supply, but less than in traditional markets; (ii) non-White artists face larger disadvantages than female artists in both sale probability and price, relative to White male artists; and (iii) self-curation via verifiable quality signals materially mitigates these gaps, with minority artists benefiting disproportionately. Robustness checks exclude supply-side explanations (e.g., artist self-underpricing), pointing to demand-side factors. Despite lower entry barriers from disintermediation, structural inequities endure; however, self-curation enables minority artists to mitigate demand-side disadvantages.</p>
   </div>
 </div>
 
@@ -135,8 +135,10 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang</li>
-    <li>To be presented at Wharton Annual Business & Generative AI Conference 2025</li>
+    <li>To be presented at ICIS 2025</li>
     <li>To be presented at INFORMS Annual Meeting 2025</li>
+    <li>Presented at Wharton Annual Business & Generative AI Conference 2025</li>
+
   </ul>
 
 <div id="abstract4" class="abstract-box">
