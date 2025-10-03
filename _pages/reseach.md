@@ -95,7 +95,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta</li>
-    <li>Submitted to <i>Information Systems Research</i></li>
+    <li>Under review at <i>Information Systems Research</i></li>
     <li>Presented at WISE 2024</li>
     <li>Presented at INFORMS ISR - ISS Paper Development Workshop 2024</li>
     <li>Presented at WITS 2023</li>
@@ -114,7 +114,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray</li>
-    <li>Submitted to <i>MIS Quarterly</i></li>
+    <li>Under review at <i>MIS Quarterly</i></li>
     <li>Presented at WITS 2024</li>
     <li>Presented at CIST 2024</li>
     <li>Presented at INFORMS Annual Meeting 2024</li>
