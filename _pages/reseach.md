@@ -172,6 +172,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim</li>
+    <li>Targeting FT50 journal</li>
     <li>Presented at WISE 2019</li>
     <li>Best paper award at Post-ICIS KrAIS Research Workshop 2019</li>
   </ul>
