@@ -142,7 +142,7 @@ nav_order: 1
 <!-- Paper 4 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Large Language Models in Academia: Boosting Productivity but Reinforcing Inequality</b>
+    <b>(1) Large Language Models in Academia: Productivity Boost and Heterogenous Effects</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract4', this)">Abstract</button>
   </div>
   <ul>
@@ -157,7 +157,7 @@ nav_order: 1
     <p>Large language models (LLMs) have attracted significant attention for their potential to enhance knowledge worker productivity. In this study, we provide the first large-scale empirical evaluations of LLMs’ impact on academic research productivity. Leveraging a comprehensive dataset of 4,582 computer science scholars across 194 top U.S. universities and analyzing 218,723 research papers published between 2019 and 2024, we find that the introduction of LLMs is associated with about 8% increase in publication output; a gap that persists across alternative measures, including the first-author publications and top-tier conference papers. Our regression discontinuity in time (RDiT) analysis further reveals that LLMs not only shifted the average publication level but also accelerated the growth rate of productivity, rising to 3.2% in 2023 and 12.8% in 2024. Notably, junior scholars realize stronger gains than their senior counterparts, with the productivity benefit diminishing by roughly 1% for each additional year of experience. Recognizing that LLMs’ benefits may not be uniformly distributed, we also investigate their impact on non-native English-speaking (NNES) researchers, who have historically faced disadvantages in academic writing (Liao et al., 2024). Difference-in-differences and generalized synthetic control analyses indicate that, following LLM adoption, native English-speaking (NES) researchers produced more papers than their NNES counterparts. Overall, our findings indicate that while LLMs significantly boost scholarly productivity, they also exhibit dual effects, lowering barriers for junior scholars while potentially reinforcing linguistic inequities.</p>
 
     <p style="margin-top: 10px;">
-      <strong>Keywords:</strong> 
+      <strong>Keywords:</strong> Large Language Models (LLMs); Generative AI; Knowledge Workers; Research Productivity; Heterogeneous Effect
     </p>
 
   </div>
