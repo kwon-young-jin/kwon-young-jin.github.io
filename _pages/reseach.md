@@ -68,7 +68,7 @@ nav_order: 1
   }
 </script>
 
-`Blockchain-based Digital Asset Market`
+`Blockchain-based Decentralized Market`
 
 <!-- Paper 1 -->
 <div class="paper-container">
@@ -107,6 +107,10 @@ nav_order: 1
 
 <div id="abstract2" class="abstract-box">
     <p>Information Systems researchers have led efforts to understand user behaviors in emerging digital markets that often diverge from traditional economic theories (Bapna et al. 2004). However, participant behavior in the burgeoning Non-Fungible Token (NFT) markets remains largely unexplored due to a lack of analytical tools and challenges posed by their low-liquidity nature. This study addresses this gap by developing a novel analytical framework to measure market trends and individual participant performance. Using transaction data from 56,609 NFTs and 18,733 participants over 5 years, we identify a complete boom-bust market cycle and uncover distinct groups of participants. Our findings reveal that, unlike traditional art or investment markets, participants focusing on extremely high-priced NFTs underperform most others. Notably, long-term holders outperform speculators who chase popular NFTs. Furthermore, the success of participants with extensive trading experience is highly dependent on market timing: they only succeed when entering during pre-boom and boom, not bust, periods. Mechanism analyses show that successful groups avoid extrapolating past returns and instead prioritize early participation in primary sales. This study contributes a robust framework for analyzing NFT markets and provides actionable insights into participant behavior during volatile boom-bust cycles.</p>
+
+    <p style="margin-top: 10px;">
+      <strong>Keywords:</strong> Non-fungible Token; NFT Market Index; Portfolio Returns; Realized Returns; Art Economics; Boom-bust Cycle; NFT Collector Strategies and Performance
+    </p>
   </div>
 </div>
 
@@ -126,6 +130,10 @@ nav_order: 1
 
 <div id="abstract3" class="abstract-box">
     <p>Blockchain-based Web3 has created a decentralized digital ecosystem that reduces reliance on traditional gatekeepers and intermediaries. This transformation raises a critical question: How does this new environment affect gender and racial minorities in the art market? To address this, we analyze approximately 27,000 sales and 90,000 offers/bids involving 40,000 NFTs created by 2,500 artists on SuperRare, a leading curated NFT art market, proposing a nuanced view of the NFT art market: (i) White male artists still dominate supply, but less than in traditional markets; (ii) non-White artists face larger disadvantages than female artists in both sale probability and price, relative to White male artists; and (iii) self-curation via verifiable quality signals materially mitigates these gaps, with minority artists benefiting disproportionately. Robustness checks exclude supply-side explanations (e.g., artist self-underpricing), pointing to demand-side factors. Despite lower entry barriers from disintermediation, structural inequities endure; however, self-curation enables minority artists to mitigate demand-side disadvantages.</p>
+
+    <p style="margin-top: 10px;">
+      <strong>Keywords:</strong> Non-fungible Token; Art Valuation; Gender and Racial Disparities; Disintermediation; Quality Signaling; Self-curation
+    </p>
   </div>
 </div>
 
@@ -147,6 +155,11 @@ nav_order: 1
 
 <div id="abstract4" class="abstract-box">
     <p>Large language models (LLMs) have attracted significant attention for their potential to enhance knowledge worker productivity. In this study, we provide the first large-scale empirical evaluations of LLMs’ impact on academic research productivity. Leveraging a comprehensive dataset of 4,582 computer science scholars across 194 top U.S. universities and analyzing 218,723 research papers published between 2019 and 2024, we find that the introduction of LLMs is associated with about 8% increase in publication output; a gap that persists across alternative measures, including the first-author publications and top-tier conference papers. Our regression discontinuity in time (RDiT) analysis further reveals that LLMs not only shifted the average publication level but also accelerated the growth rate of productivity, rising to 3.2% in 2023 and 12.8% in 2024. Notably, junior scholars realize stronger gains than their senior counterparts, with the productivity benefit diminishing by roughly 1% for each additional year of experience. Recognizing that LLMs’ benefits may not be uniformly distributed, we also investigate their impact on non-native English-speaking (NNES) researchers, who have historically faced disadvantages in academic writing (Liao et al., 2024). Difference-in-differences and generalized synthetic control analyses indicate that, following LLM adoption, native English-speaking (NES) researchers produced more papers than their NNES counterparts. Overall, our findings indicate that while LLMs significantly boost scholarly productivity, they also exhibit dual effects, lowering barriers for junior scholars while potentially reinforcing linguistic inequities.</p>
+
+    <p style="margin-top: 10px;">
+      <strong>Keywords:</strong> 
+    </p>
+
   </div>
 </div>
 
