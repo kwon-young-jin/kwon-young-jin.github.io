@@ -142,7 +142,7 @@ nav_order: 1
 <!-- Paper 4 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Large Language Models in Academia: Productivity Boost and Heterogenous Effects</b>
+    <b>(1) Large Language Models in Academia: Productivity Boost and Heterogeneous Effects</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract4', this)">Abstract</button>
   </div>
   <ul>
