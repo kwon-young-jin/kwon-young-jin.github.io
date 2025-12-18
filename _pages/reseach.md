@@ -99,7 +99,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Teng Ye, and Alok Gupta</li>
-    <li>Under review at <i>Information Systems Research</i></li>
+    <li>Revise and resubmit at <i>Information Systems Research</i></li>
     <li>Presented at WISE 2024</li>
     <li>Presented at INFORMS ISR - ISS Paper Development Workshop 2024</li>
     <li>Presented at WITS 2023</li>
