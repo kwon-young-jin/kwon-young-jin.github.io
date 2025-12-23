@@ -147,8 +147,9 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang</li>
-    <li>To be presented at ICIS 2025</li>
-    <li>To be presented at INFORMS Annual Meeting 2025</li>
+    <li>To be presented at AI in Management (AIM) Conference 2026 (hosted by USC Marshall)</li>
+    <li>Presented at ICIS 2025</li>
+    <li>Presented at INFORMS Annual Meeting 2025</li>
     <li>Presented at Wharton Annual Business & Generative AI Conference 2025</li>
 
   </ul>
