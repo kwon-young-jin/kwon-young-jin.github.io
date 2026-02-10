@@ -73,7 +73,7 @@ nav_order: 1
 <!-- Paper 1 -->
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(1) Carrots, Sticks, and Crashes: The Antecedents and Consequences of Wash Trading in NFT Markets</b>
+    <b>(1) Carrot, Stick, and Bubble: The Antecedents and Consequences of Wash Trading in NFT Markets</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract1', this)">Abstract</button>
   </div>
   <ul>
