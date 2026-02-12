@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 <p><s>I will be on the 2025–2026 job market!</s></p>
 
-<p>I’m excited that I will be joining the Information & Operations Management group at Texas A&M University as an Assistant Professor in Fall 2026.</p>
+<p>I’m excited to join the Information & Operations Management group at Texas A&M University as an Assistant Professor in Fall 2026.</p>
 
 <p>
 I am an empirical researcher who employs computational methods, such as computer vision, natural language processing, and causal inference on large-scale data, to examine how digital technologies reshape markets and society.
