@@ -23,6 +23,8 @@ social: false  # includes social icons at the bottom of the page
 
 <p>I’m excited to join the Information & Operations Management group at Texas A&M University as an Assistant Professor in Fall 2026.</p>
 
+<p><s>----------------------------------------------</s></p>
+
 <p>
 I am an empirical researcher who employs computational methods, such as computer vision, natural language processing, and causal inference on large-scale data, to examine how digital technologies reshape markets and society.
 My doctoral work unfolds in two streams: (i) how blockchain-based decentralized markets transform the creator economy and (ii) how generative AI boosts human productivity and creativity.
