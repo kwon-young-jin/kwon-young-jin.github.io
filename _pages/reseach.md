@@ -137,6 +137,21 @@ nav_order: 1
   </div>
 </div>
 
+<div class="paper-container">
+  <div class="paper-title-line">
+    <b>(4) Multi-Auction Channels in the NFT Market: Sellers' Strategic Choices, Posted Prices, and Anchoring Points Contingent upon Market Sentiment</b>
+    <button class="abstract-button" onclick="toggleAbstract('abstract5', this)">Abstract</button>
+  </div>
+  <ul>
+    <li>with Alok Gupta, Teng Ye</li>
+    <li>Analysis in progress</li>
+  </ul>
+
+<div id="abstract5" class="abstract-box">
+    <p>Abstract coming soon...</p>
+  </div>
+</div>
+
 `GenAI Creativity and Productivity`
 
 <!-- Paper 4 -->
@@ -147,7 +162,8 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b> and Agnes Yang</li>
-    <li>To be presented at AI in Management (AIM) Conference 2026 (Hosted by USC Marshall)</li>
+    <li>To be presented at Annual Meeting of the Academy of Management 2026</li>
+    <li>Presented at AI in Management (AIM) Conference 2026 (Hosted by USC Marshall)</li>
     <li>Presented at ICIS 2025</li>
     <li>Presented at INFORMS Annual Meeting 2025</li>
     <li>Presented at Wharton Annual Business & Generative AI Conference 2025</li>
@@ -164,21 +180,6 @@ nav_order: 1
   </div>
 </div>
 
-<!-- Paper 5 -->
-<div class="paper-container">
-  <div class="paper-title-line">
-    <b>(2) Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>
-    <button class="abstract-button" onclick="toggleAbstract('abstract5', this)">Abstract</button>
-  </div>
-  <ul>
-    <li>with Alok Gupta</li>
-    <li>Analysis in progress</li>
-  </ul>
-
-<div id="abstract5" class="abstract-box">
-    <p>Abstract coming soon...</p>
-  </div>
-</div>
 
 `Sharing Economy`
 
