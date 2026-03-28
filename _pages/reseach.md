@@ -139,7 +139,7 @@ nav_order: 1
 
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(4) Multi-Auction Channels in the NFT Market: Sellers' Strategic Choices, Posted Prices, and Anchoring Points Contingent upon Market Sentiment</b>
+    <b>(4) Multichannel Auctions in the NFT Market: Sellers' Strategic Choices, Posted Prices, and Anchoring Points Contingent upon Market Sentiment</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract5', this)">Abstract</button>
   </div>
   <ul>
