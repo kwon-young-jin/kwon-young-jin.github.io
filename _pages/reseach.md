@@ -181,6 +181,21 @@ nav_order: 1
 </div>
 
 
+<div class="paper-container">
+  <div class="paper-title-line">
+    <b>(2) Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>
+    <button class="abstract-button" onclick="toggleAbstract('abstract5', this)">Abstract</button>
+  </div>
+  <ul>
+    <li>with Alok Gupta</li>
+    <li>Analysis in progress</li>
+  </ul>
+
+<div id="abstract5" class="abstract-box">
+    <p>Abstract coming soon...</p>
+  </div>
+</div>
+
 `Sharing Economy`
 
 <!-- Paper 6 -->

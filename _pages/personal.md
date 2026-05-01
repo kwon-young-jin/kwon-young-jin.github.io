@@ -12,7 +12,7 @@ Whenever I'm not working, you'll most likely find me engaged in one of these act
 - Attending live music concerts (Fun fact: I've been a devoted Radiohead fan for 20 years)
 - Strumming my bass guitar
 - Exploring art exhibitions (Fun fact: I used to work as a docent at art museum)
-- Enjoying a good film (Fun fact: I've watched 1,100+ movies to date)
+- Enjoying a good film 
 - Bouldering
 - Swimming
 - Watching NBA games in person and online
