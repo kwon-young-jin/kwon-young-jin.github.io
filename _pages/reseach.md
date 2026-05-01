@@ -140,14 +140,14 @@ nav_order: 1
 <div class="paper-container">
   <div class="paper-title-line">
     <b>(4) Multichannel Auctions in the NFT Market: Sellers' Strategic Choices, Posted Prices, and Anchoring Points Contingent upon Market Sentiment</b>
-    <button class="abstract-button" onclick="toggleAbstract('abstract5', this)">Abstract</button>
+    <button class="abstract-button" onclick="toggleAbstract('abstract4', this)">Abstract</button>
   </div>
   <ul>
     <li>with Alok Gupta, Teng Ye</li>
     <li>Analysis in progress</li>
   </ul>
 
-<div id="abstract5" class="abstract-box">
+<div id="abstract4" class="abstract-box">
     <p>Abstract coming soon...</p>
   </div>
 </div>
@@ -158,7 +158,7 @@ nav_order: 1
 <div class="paper-container">
   <div class="paper-title-line">
     <b>(1) Large Language Models in Academia: Productivity Boost and Heterogeneous Effects</b>
-    <button class="abstract-button" onclick="toggleAbstract('abstract4', this)">Abstract</button>
+    <button class="abstract-button" onclick="toggleAbstract('abstract5', this)">Abstract</button>
   </div>
   <ul>
     <li><b>YoungJin Kwon</b> and Agnes Yang</li>
@@ -170,7 +170,7 @@ nav_order: 1
 
   </ul>
 
-<div id="abstract4" class="abstract-box">
+<div id="abstract5" class="abstract-box">
     <p>Large language models (LLMs) have attracted significant attention for their potential to enhance knowledge worker productivity. In this study, we provide the first large-scale empirical evaluations of LLMs’ impact on academic research productivity. Leveraging a comprehensive dataset of 4,582 computer science scholars across 194 top U.S. universities and analyzing 218,723 research papers published between 2019 and 2024, we find that the introduction of LLMs is associated with about 8% increase in publication output; a gap that persists across alternative measures, including the first-author publications and top-tier conference papers. Our regression discontinuity in time (RDiT) analysis further reveals that LLMs not only shifted the average publication level but also accelerated the growth rate of productivity, rising to 3.2% in 2023 and 12.8% in 2024. Notably, junior scholars realize stronger gains than their senior counterparts, with the productivity benefit diminishing by roughly 1% for each additional year of experience. Recognizing that LLMs’ benefits may not be uniformly distributed, we also investigate their impact on non-native English-speaking (NNES) researchers, who have historically faced disadvantages in academic writing (Liao et al., 2024). Difference-in-differences and generalized synthetic control analyses indicate that, following LLM adoption, native English-speaking (NES) researchers produced more papers than their NNES counterparts. Overall, our findings indicate that while LLMs significantly boost scholarly productivity, they also exhibit dual effects, lowering barriers for junior scholars while potentially reinforcing linguistic inequities.</p>
 
     <p style="margin-top: 10px;">
@@ -184,14 +184,14 @@ nav_order: 1
 <div class="paper-container">
   <div class="paper-title-line">
     <b>(2) Perception and Valuation of Human-AI Co-created Art: Computational Aesthetics Approach</b>
-    <button class="abstract-button" onclick="toggleAbstract('abstract5', this)">Abstract</button>
+    <button class="abstract-button" onclick="toggleAbstract('abstract6', this)">Abstract</button>
   </div>
   <ul>
     <li>with Alok Gupta</li>
     <li>Analysis in progress</li>
   </ul>
 
-<div id="abstract5" class="abstract-box">
+<div id="abstract6" class="abstract-box">
     <p>Abstract coming soon...</p>
   </div>
 </div>
@@ -202,7 +202,7 @@ nav_order: 1
 <div class="paper-container">
   <div class="paper-title-line">
     <b>(1) Friend or Foe? Bike-sharing and Ride-sharing in New York City</b>
-    <button class="abstract-button" onclick="toggleAbstract('abstract6', this)">Abstract</button>
+    <button class="abstract-button" onclick="toggleAbstract('abstract7', this)">Abstract</button>
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Sang-Yong Tom Lee, and Seung Hyun Kim</li>
@@ -211,7 +211,7 @@ nav_order: 1
     <li>Best paper award at Post-ICIS KrAIS Research Workshop 2019</li>
   </ul>
 
-<div id="abstract6" class="abstract-box">
+<div id="abstract7" class="abstract-box">
     <p>App-based bike-sharing platforms are rapidly transforming urban transportation. This study investigates how bike-sharing platforms influence demand for ride-sharing services, with a focus on platform interaction. To measure this effect, we use spatiotemporally staggered expansions of Citi Bike, New York City’s largest bike-sharing service, as a natural experiment. We examine the treatment effects on ride-sharing services (Uber, Lyft) and Yellow taxi demand across the city. Our novel identification strategy, geographically nearest neighbor matching, is based on 0.38 billion individual trip records. The results reveal a complementary relationship between bike‑sharing and ride‑hailing (Citi Bike stations stimulate nearby ride‑hailing trips) while simultaneously depressing Yellow Taxi demand, pointing to a substitution between ride‑hailing and taxis. This research contributes to the sharing economy literature in Information Systems (IS). To our knowledge, it is one of the first studies to explore interactions between app-based sharing platforms. Understanding how people connect different shared mobility services has never been more important. We argue that this study lays the foundation for future research on sharing-to-sharing mobility interactions.</p>
   </div>
 </div>
