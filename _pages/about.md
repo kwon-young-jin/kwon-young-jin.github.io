@@ -19,8 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p><s>I will be on the 2025–2026 job market!</s></p>
-
 <p><span style="color: purple;">I’m excited to join the Information & Operations Management group at Texas A&M University as an Assistant Professor in Fall 2026.</span><p>
 
 <p>

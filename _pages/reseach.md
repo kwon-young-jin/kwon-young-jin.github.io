@@ -79,7 +79,7 @@ nav_order: 1
   <ul>
     <li>with Alok Gupta, Teng Ye</li>
     <li><span style="color: purple;">Job Market Paper</span></li>
-    <li>Targeting <i>Management Science</i></li>
+    <li>In preparation for a submission to  <i>Management Science</i></li>
   </ul>
 
   <div id="abstract1" class="abstract-box">
@@ -122,7 +122,7 @@ nav_order: 1
   </div>
   <ul>
     <li><b>YoungJin Kwon</b>, Agnes Yang, Gautam Ray</li>
-    <li>Under review at <i>MIS Quarterly</i></li>
+    <li>In preparation for a submission to <i>Information Systems Research</i></li>
     <li>Presented at WITS 2024</li>
     <li>Presented at CIST 2024</li>
     <li>Presented at INFORMS Annual Meeting 2024</li>
@@ -139,7 +139,7 @@ nav_order: 1
 
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(4) Multichannel Auctions in the NFT Market: Sellers' Strategic Choices, Posted Prices, and Anchoring Points Contingent upon Market Sentiment</b>
+    <b>(4) Multichannel Auctions in the NFT Market: Market Sentiment and Sellers' Strategic Behavior</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract4', this)">Abstract</button>
   </div>
   <ul>
