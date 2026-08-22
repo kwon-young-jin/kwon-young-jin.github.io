@@ -144,7 +144,7 @@ nav_order: 1
   </div>
   <ul>
     <li>with Alok Gupta, Teng Ye</li>
-    <li>Manuscript available with results (Targeting <i>MIS Quarterly</i>)</li>
+    <li>Manuscript with results (Targeting <i>MIS Quarterly</i>)</li>
   </ul>
 
 <div id="abstract4" class="abstract-box">
