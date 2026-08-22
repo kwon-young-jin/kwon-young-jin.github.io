@@ -139,12 +139,12 @@ nav_order: 1
 
 <div class="paper-container">
   <div class="paper-title-line">
-    <b>(4) Multichannel Auctions in the NFT Market: Market Sentiment and Sellers' Strategic Behavior</b>
+    <b>(4) Portfolio Strategies for Multiple Selling Mechanisms in Transparent Digital Asset Markets</b>
     <button class="abstract-button" onclick="toggleAbstract('abstract4', this)">Abstract</button>
   </div>
   <ul>
     <li>with Alok Gupta, Teng Ye</li>
-    <li>Analysis in progress</li>
+    <li>Manuscript available with results (Targeting <i>MIS Quarterly</i>)</li>
   </ul>
 
 <div id="abstract4" class="abstract-box">
