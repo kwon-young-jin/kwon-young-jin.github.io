@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Assistant Professor</p>
     <p>Texas A&M University</p>
-    <p>Mays School of Business/p>
+    <p>Mays School of Business</p>
     <p>INFO Group</p>
 
 news: false  # includes a list of news items
