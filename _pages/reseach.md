@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<!-- Styles for the container, title-button row, buttons, and abstract box -->
+
 <style>
   .paper-container {
     margin-bottom: 20px;
